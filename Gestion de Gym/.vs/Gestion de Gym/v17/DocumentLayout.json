@@ -1,0 +1,301 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\emili\\Music\\C#\\Gestion de Gymnasio\\Gestion de Gym\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98B73FE5-9508-49A9-AD34-1114E831CAFE}|Gestion de Gym\\Gestion de Gym.csproj|C:\\Users\\emili\\Music\\C#\\Gestion de Gymnasio\\Gestion de Gym\\gestion de gym\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98B73FE5-9508-49A9-AD34-1114E831CAFE}|Gestion de Gym\\Gestion de Gym.csproj|solutionrelative:gestion de gym\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98B73FE5-9508-49A9-AD34-1114E831CAFE}|Gestion de Gym\\Gestion de Gym.csproj|c:\\users\\emili\\music\\c#\\gestion de gymnasio\\gestion de gym\\gestion de gym\\resources\\icons8-pesa-64.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{98B73FE5-9508-49A9-AD34-1114E831CAFE}|Gestion de Gym\\Gestion de Gym.csproj|solutionrelative:gestion de gym\\resources\\icons8-pesa-64.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98B73FE5-9508-49A9-AD34-1114E831CAFE}|Gestion de Gym\\Gestion de Gym.csproj|c:\\users\\emili\\music\\c#\\gestion de gymnasio\\gestion de gym\\gestion de gym\\resources\\descarga.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{98B73FE5-9508-49A9-AD34-1114E831CAFE}|Gestion de Gym\\Gestion de Gym.csproj|solutionrelative:gestion de gym\\resources\\descarga.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98B73FE5-9508-49A9-AD34-1114E831CAFE}|Gestion de Gym\\Gestion de Gym.csproj|c:\\users\\emili\\music\\c#\\gestion de gymnasio\\gestion de gym\\gestion de gym\\clases\\clsconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98B73FE5-9508-49A9-AD34-1114E831CAFE}|Gestion de Gym\\Gestion de Gym.csproj|solutionrelative:gestion de gym\\clases\\clsconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98B73FE5-9508-49A9-AD34-1114E831CAFE}|Gestion de Gym\\Gestion de Gym.csproj|C:\\Users\\emili\\Music\\C#\\Gestion de Gymnasio\\Gestion de Gym\\gestion de gym\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98B73FE5-9508-49A9-AD34-1114E831CAFE}|Gestion de Gym\\Gestion de Gym.csproj|solutionrelative:gestion de gym\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98B73FE5-9508-49A9-AD34-1114E831CAFE}|Gestion de Gym\\Gestion de Gym.csproj|c:\\users\\emili\\music\\c#\\gestion de gymnasio\\gestion de gym\\gestion de gym\\forms\\viewmemberform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98B73FE5-9508-49A9-AD34-1114E831CAFE}|Gestion de Gym\\Gestion de Gym.csproj|solutionrelative:gestion de gym\\forms\\viewmemberform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98B73FE5-9508-49A9-AD34-1114E831CAFE}|Gestion de Gym\\Gestion de Gym.csproj|c:\\users\\emili\\music\\c#\\gestion de gymnasio\\gestion de gym\\gestion de gym\\forms\\updatedeleteform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98B73FE5-9508-49A9-AD34-1114E831CAFE}|Gestion de Gym\\Gestion de Gym.csproj|solutionrelative:gestion de gym\\forms\\updatedeleteform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98B73FE5-9508-49A9-AD34-1114E831CAFE}|Gestion de Gym\\Gestion de Gym.csproj|c:\\users\\emili\\music\\c#\\gestion de gymnasio\\gestion de gym\\gestion de gym\\forms\\paymentsforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98B73FE5-9508-49A9-AD34-1114E831CAFE}|Gestion de Gym\\Gestion de Gym.csproj|solutionrelative:gestion de gym\\forms\\paymentsforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98B73FE5-9508-49A9-AD34-1114E831CAFE}|Gestion de Gym\\Gestion de Gym.csproj|C:\\Users\\emili\\Music\\C#\\Gestion de Gymnasio\\Gestion de Gym\\gestion de gym\\forms\\adduserform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98B73FE5-9508-49A9-AD34-1114E831CAFE}|Gestion de Gym\\Gestion de Gym.csproj|solutionrelative:gestion de gym\\forms\\adduserform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98B73FE5-9508-49A9-AD34-1114E831CAFE}|Gestion de Gym\\Gestion de Gym.csproj|c:\\users\\emili\\music\\c#\\gestion de gymnasio\\gestion de gym\\gestion de gym\\forms\\addmemberform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98B73FE5-9508-49A9-AD34-1114E831CAFE}|Gestion de Gym\\Gestion de Gym.csproj|solutionrelative:gestion de gym\\forms\\addmemberform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98B73FE5-9508-49A9-AD34-1114E831CAFE}|Gestion de Gym\\Gestion de Gym.csproj|C:\\Users\\emili\\Music\\C#\\Gestion de Gymnasio\\Gestion de Gym\\gestion de gym\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98B73FE5-9508-49A9-AD34-1114E831CAFE}|Gestion de Gym\\Gestion de Gym.csproj|solutionrelative:gestion de gym\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98B73FE5-9508-49A9-AD34-1114E831CAFE}|Gestion de Gym\\Gestion de Gym.csproj|c:\\users\\emili\\music\\c#\\gestion de gymnasio\\gestion de gym\\gestion de gym\\forms\\paymentsforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98B73FE5-9508-49A9-AD34-1114E831CAFE}|Gestion de Gym\\Gestion de Gym.csproj|solutionrelative:gestion de gym\\forms\\paymentsforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98B73FE5-9508-49A9-AD34-1114E831CAFE}|Gestion de Gym\\Gestion de Gym.csproj|c:\\users\\emili\\music\\c#\\gestion de gymnasio\\gestion de gym\\gestion de gym\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98B73FE5-9508-49A9-AD34-1114E831CAFE}|Gestion de Gym\\Gestion de Gym.csproj|solutionrelative:gestion de gym\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98B73FE5-9508-49A9-AD34-1114E831CAFE}|Gestion de Gym\\Gestion de Gym.csproj|C:\\Users\\emili\\Music\\C#\\Gestion de Gymnasio\\Gestion de Gym\\gestion de gym\\forms\\adduserform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98B73FE5-9508-49A9-AD34-1114E831CAFE}|Gestion de Gym\\Gestion de Gym.csproj|solutionrelative:gestion de gym\\forms\\adduserform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98B73FE5-9508-49A9-AD34-1114E831CAFE}|Gestion de Gym\\Gestion de Gym.csproj|C:\\Users\\emili\\Music\\C#\\Gestion de Gymnasio\\Gestion de Gym\\gestion de gym\\clases\\clsencrypt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98B73FE5-9508-49A9-AD34-1114E831CAFE}|Gestion de Gym\\Gestion de Gym.csproj|solutionrelative:gestion de gym\\clases\\clsencrypt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98B73FE5-9508-49A9-AD34-1114E831CAFE}|Gestion de Gym\\Gestion de Gym.csproj|C:\\Users\\emili\\Music\\C#\\Gestion de Gymnasio\\Gestion de Gym\\gestion de gym\\clases\\clsagregarusasrio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98B73FE5-9508-49A9-AD34-1114E831CAFE}|Gestion de Gym\\Gestion de Gym.csproj|solutionrelative:gestion de gym\\clases\\clsagregarusasrio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98B73FE5-9508-49A9-AD34-1114E831CAFE}|Gestion de Gym\\Gestion de Gym.csproj|C:\\Users\\emili\\Music\\C#\\Gestion de Gymnasio\\Gestion de Gym\\gestion de gym\\clases\\clslogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98B73FE5-9508-49A9-AD34-1114E831CAFE}|Gestion de Gym\\Gestion de Gym.csproj|solutionrelative:gestion de gym\\clases\\clslogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "icons8-pesa-64.png -  [Espa\u00F1ol (M\u00E9xico)] - PNG [64x64, 32 bits, PNG]",
+              "DocumentMoniker": "C:\\Users\\emili\\Music\\C#\\Gestion de Gymnasio\\Gestion de Gym\\Gestion de Gym\\Resources\\icons8-pesa-64.png",
+              "RelativeDocumentMoniker": "Gestion de Gym\\Resources\\icons8-pesa-64.png",
+              "ToolTip": "C:\\Users\\emili\\Music\\C#\\Gestion de Gymnasio\\Gestion de Gym\\Gestion de Gym\\Resources\\icons8-pesa-64.png -  [Espa\u00F1ol (M\u00E9xico)] - PNG [64x64, 32 bits, PNG]",
+              "RelativeToolTip": "Gestion de Gym\\Resources\\icons8-pesa-64.png -  [Espa\u00F1ol (M\u00E9xico)] - PNG [64x64, 32 bits, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-12-02T16:48:38.785Z",
+              "EditorCaption": " -  [Espa\u00F1ol (M\u00E9xico)] - PNG [64x64, 32 bits, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "descarga.png -  [Espa\u00F1ol (M\u00E9xico)] - PNG [275x183, 8 bits, PNG]",
+              "DocumentMoniker": "C:\\Users\\emili\\Music\\C#\\Gestion de Gymnasio\\Gestion de Gym\\Gestion de Gym\\Resources\\descarga.png",
+              "RelativeDocumentMoniker": "Gestion de Gym\\Resources\\descarga.png",
+              "ToolTip": "C:\\Users\\emili\\Music\\C#\\Gestion de Gymnasio\\Gestion de Gym\\Gestion de Gym\\Resources\\descarga.png -  [Espa\u00F1ol (M\u00E9xico)] - PNG [275x183, 8 bits, PNG]",
+              "RelativeToolTip": "Gestion de Gym\\Resources\\descarga.png -  [Espa\u00F1ol (M\u00E9xico)] - PNG [275x183, 8 bits, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-12-02T16:48:37.363Z",
+              "EditorCaption": " -  [Espa\u00F1ol (M\u00E9xico)] - PNG [275x183, 8 bits, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "clsConexion.cs",
+              "DocumentMoniker": "C:\\Users\\emili\\Music\\C#\\Gestion de Gymnasio\\Gestion de Gym\\Gestion de Gym\\Clases\\clsConexion.cs",
+              "RelativeDocumentMoniker": "Gestion de Gym\\Clases\\clsConexion.cs",
+              "ToolTip": "C:\\Users\\emili\\Music\\C#\\Gestion de Gymnasio\\Gestion de Gym\\Gestion de Gym\\Clases\\clsConexion.cs",
+              "RelativeToolTip": "Gestion de Gym\\Clases\\clsConexion.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwBsAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T16:46:20.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "addmemberForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\emili\\Music\\C#\\Gestion de Gymnasio\\Gestion de Gym\\Gestion de Gym\\Forms\\addmemberForm.cs",
+              "RelativeDocumentMoniker": "Gestion de Gym\\Forms\\addmemberForm.cs",
+              "ToolTip": "C:\\Users\\emili\\Music\\C#\\Gestion de Gymnasio\\Gestion de Gym\\Gestion de Gym\\Forms\\addmemberForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Gestion de Gym\\Forms\\addmemberForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T16:45:49.343Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "paymentsForms.cs",
+              "DocumentMoniker": "C:\\Users\\emili\\Music\\C#\\Gestion de Gymnasio\\Gestion de Gym\\Gestion de Gym\\Forms\\paymentsForms.cs",
+              "RelativeDocumentMoniker": "Gestion de Gym\\Forms\\paymentsForms.cs",
+              "ToolTip": "C:\\Users\\emili\\Music\\C#\\Gestion de Gymnasio\\Gestion de Gym\\Gestion de Gym\\Forms\\paymentsForms.cs*",
+              "RelativeToolTip": "Gestion de Gym\\Forms\\paymentsForms.cs*",
+              "ViewState": "AQIAAAQAAAAAAAAAAAASwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T16:44:48.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "updateDeleteForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\emili\\Music\\C#\\Gestion de Gymnasio\\Gestion de Gym\\Gestion de Gym\\Forms\\updateDeleteForm.cs",
+              "RelativeDocumentMoniker": "Gestion de Gym\\Forms\\updateDeleteForm.cs",
+              "ToolTip": "C:\\Users\\emili\\Music\\C#\\Gestion de Gymnasio\\Gestion de Gym\\Gestion de Gym\\Forms\\updateDeleteForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Gestion de Gym\\Forms\\updateDeleteForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T16:35:31.368Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "viewMemberForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\emili\\Music\\C#\\Gestion de Gymnasio\\Gestion de Gym\\Gestion de Gym\\Forms\\viewMemberForm.cs",
+              "RelativeDocumentMoniker": "Gestion de Gym\\Forms\\viewMemberForm.cs",
+              "ToolTip": "C:\\Users\\emili\\Music\\C#\\Gestion de Gymnasio\\Gestion de Gym\\Gestion de Gym\\Forms\\viewMemberForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Gestion de Gym\\Forms\\viewMemberForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T16:35:29.82Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "paymentsForms.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\emili\\Music\\C#\\Gestion de Gymnasio\\Gestion de Gym\\Gestion de Gym\\Forms\\paymentsForms.cs",
+              "RelativeDocumentMoniker": "Gestion de Gym\\Forms\\paymentsForms.cs",
+              "ToolTip": "C:\\Users\\emili\\Music\\C#\\Gestion de Gymnasio\\Gestion de Gym\\Gestion de Gym\\Forms\\paymentsForms.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "Gestion de Gym\\Forms\\paymentsForms.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T16:35:24.492Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "mainForm.cs",
+              "DocumentMoniker": "C:\\Users\\emili\\Music\\C#\\Gestion de Gymnasio\\Gestion de Gym\\Gestion de Gym\\Forms\\mainForm.cs",
+              "RelativeDocumentMoniker": "Gestion de Gym\\Forms\\mainForm.cs",
+              "ToolTip": "C:\\Users\\emili\\Music\\C#\\Gestion de Gymnasio\\Gestion de Gym\\Gestion de Gym\\Forms\\mainForm.cs",
+              "RelativeToolTip": "Gestion de Gym\\Forms\\mainForm.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwBoAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T19:22:33.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "mainForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\emili\\Music\\C#\\Gestion de Gymnasio\\Gestion de Gym\\Gestion de Gym\\Forms\\mainForm.cs",
+              "RelativeDocumentMoniker": "Gestion de Gym\\Forms\\mainForm.cs",
+              "ToolTip": "C:\\Users\\emili\\Music\\C#\\Gestion de Gymnasio\\Gestion de Gym\\Gestion de Gym\\Forms\\mainForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Gestion de Gym\\Forms\\mainForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T19:22:31.887Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "clsEncrypt.cs",
+              "DocumentMoniker": "C:\\Users\\emili\\Music\\C#\\Gestion de Gymnasio\\Gestion de Gym\\Gestion de Gym\\Clases\\clsEncrypt.cs",
+              "RelativeDocumentMoniker": "Gestion de Gym\\Clases\\clsEncrypt.cs",
+              "ToolTip": "C:\\Users\\emili\\Music\\C#\\Gestion de Gymnasio\\Gestion de Gym\\Gestion de Gym\\Clases\\clsEncrypt.cs",
+              "RelativeToolTip": "Gestion de Gym\\Clases\\clsEncrypt.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAwwBgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T19:21:09.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "adduserForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\emili\\Music\\C#\\Gestion de Gymnasio\\Gestion de Gym\\Gestion de Gym\\Forms\\adduserForm.cs",
+              "RelativeDocumentMoniker": "Gestion de Gym\\Forms\\adduserForm.cs",
+              "ToolTip": "C:\\Users\\emili\\Music\\C#\\Gestion de Gymnasio\\Gestion de Gym\\Gestion de Gym\\Forms\\adduserForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Gestion de Gym\\Forms\\adduserForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T19:08:20.895Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "clsLogin.cs",
+              "DocumentMoniker": "C:\\Users\\emili\\Music\\C#\\Gestion de Gymnasio\\Gestion de Gym\\Gestion de Gym\\Clases\\clsLogin.cs",
+              "RelativeDocumentMoniker": "Gestion de Gym\\Clases\\clsLogin.cs",
+              "ToolTip": "C:\\Users\\emili\\Music\\C#\\Gestion de Gymnasio\\Gestion de Gym\\Gestion de Gym\\Clases\\clsLogin.cs",
+              "RelativeToolTip": "Gestion de Gym\\Clases\\clsLogin.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T18:40:12.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "clsAgregarUsasrio.cs",
+              "DocumentMoniker": "C:\\Users\\emili\\Music\\C#\\Gestion de Gymnasio\\Gestion de Gym\\Gestion de Gym\\Clases\\clsAgregarUsasrio.cs",
+              "RelativeDocumentMoniker": "Gestion de Gym\\Clases\\clsAgregarUsasrio.cs",
+              "ToolTip": "C:\\Users\\emili\\Music\\C#\\Gestion de Gymnasio\\Gestion de Gym\\Gestion de Gym\\Clases\\clsAgregarUsasrio.cs",
+              "RelativeToolTip": "Gestion de Gym\\Clases\\clsAgregarUsasrio.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T18:35:15.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "adduserForm.cs",
+              "DocumentMoniker": "C:\\Users\\emili\\Music\\C#\\Gestion de Gymnasio\\Gestion de Gym\\Gestion de Gym\\Forms\\adduserForm.cs",
+              "RelativeDocumentMoniker": "Gestion de Gym\\Forms\\adduserForm.cs",
+              "ToolTip": "C:\\Users\\emili\\Music\\C#\\Gestion de Gymnasio\\Gestion de Gym\\Gestion de Gym\\Forms\\adduserForm.cs",
+              "RelativeToolTip": "Gestion de Gym\\Forms\\adduserForm.cs",
+              "ViewState": "AQIAAJQAAAAAAAAAAAAYwJoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T18:42:43.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "loginForm.cs",
+              "DocumentMoniker": "C:\\Users\\emili\\Music\\C#\\Gestion de Gymnasio\\Gestion de Gym\\Gestion de Gym\\Forms\\loginForm.cs",
+              "RelativeDocumentMoniker": "Gestion de Gym\\Forms\\loginForm.cs",
+              "ToolTip": "C:\\Users\\emili\\Music\\C#\\Gestion de Gymnasio\\Gestion de Gym\\Gestion de Gym\\Forms\\loginForm.cs",
+              "RelativeToolTip": "Gestion de Gym\\Forms\\loginForm.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAB8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T18:59:41.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "loginForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\emili\\Music\\C#\\Gestion de Gymnasio\\Gestion de Gym\\Gestion de Gym\\Forms\\loginForm.cs",
+              "RelativeDocumentMoniker": "Gestion de Gym\\Forms\\loginForm.cs",
+              "ToolTip": "C:\\Users\\emili\\Music\\C#\\Gestion de Gymnasio\\Gestion de Gym\\Gestion de Gym\\Forms\\loginForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Gestion de Gym\\Forms\\loginForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T18:30:06.487Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,213 @@
+C:\Users\emili\OneDrive\Documentos\Taller web server\Gestion de Gym\Gestion de Gym\bin\Debug\Gestion de Gym.exe.config
+C:\Users\emili\OneDrive\Documentos\Taller web server\Gestion de Gym\Gestion de Gym\bin\Debug\Gestion de Gym.exe
+C:\Users\emili\OneDrive\Documentos\Taller web server\Gestion de Gym\Gestion de Gym\bin\Debug\Gestion de Gym.pdb
+C:\Users\emili\OneDrive\Documentos\Taller web server\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.Licensing.dll
+C:\Users\emili\OneDrive\Documentos\Taller web server\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\emili\OneDrive\Documentos\Taller web server\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\emili\OneDrive\Documentos\Taller web server\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\emili\OneDrive\Documentos\Taller web server\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\emili\OneDrive\Documentos\Taller web server\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\emili\OneDrive\Documentos\Taller web server\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\emili\OneDrive\Documentos\Taller web server\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\emili\OneDrive\Documentos\Taller web server\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\emili\OneDrive\Documentos\Taller web server\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\emili\OneDrive\Documentos\Taller web server\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\emili\OneDrive\Documentos\Taller web server\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\emili\OneDrive\Documentos\Taller web server\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\emili\OneDrive\Documentos\Taller web server\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\emili\OneDrive\Documentos\Taller web server\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\emili\OneDrive\Documentos\Taller web server\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\emili\OneDrive\Documentos\Taller web server\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\emili\OneDrive\Documentos\Taller web server\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\emili\OneDrive\Documentos\Taller web server\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\emili\OneDrive\Documentos\Taller web server\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\emili\OneDrive\Documentos\Taller web server\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\emili\OneDrive\Documentos\Taller web server\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\emili\OneDrive\Documentos\Taller web server\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\emili\OneDrive\Documentos\Taller web server\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\emili\OneDrive\Documentos\Taller web server\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\emili\OneDrive\Documentos\Taller web server\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\emili\OneDrive\Documentos\Taller web server\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\emili\OneDrive\Documentos\Taller web server\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\emili\OneDrive\Documentos\Taller web server\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\emili\OneDrive\Documentos\Taller web server\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\emili\OneDrive\Documentos\Taller web server\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\emili\OneDrive\Documentos\Taller web server\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\emili\OneDrive\Documentos\Taller web server\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\emili\OneDrive\Documentos\Taller web server\Gestion de Gym\Gestion de Gym\bin\Debug\Guna.UI2.dll
+C:\Users\emili\OneDrive\Documentos\Taller web server\Gestion de Gym\Gestion de Gym\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\emili\OneDrive\Documentos\Taller web server\Gestion de Gym\Gestion de Gym\bin\Debug\Newtonsoft.Json.dll
+C:\Users\emili\OneDrive\Documentos\Taller web server\Gestion de Gym\Gestion de Gym\bin\Debug\RestSharp.dll
+C:\Users\emili\OneDrive\Documentos\Taller web server\Gestion de Gym\Gestion de Gym\bin\Debug\System.Buffers.dll
+C:\Users\emili\OneDrive\Documentos\Taller web server\Gestion de Gym\Gestion de Gym\bin\Debug\System.CodeDom.dll
+C:\Users\emili\OneDrive\Documentos\Taller web server\Gestion de Gym\Gestion de Gym\bin\Debug\System.Memory.dll
+C:\Users\emili\OneDrive\Documentos\Taller web server\Gestion de Gym\Gestion de Gym\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\emili\OneDrive\Documentos\Taller web server\Gestion de Gym\Gestion de Gym\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\emili\OneDrive\Documentos\Taller web server\Gestion de Gym\Gestion de Gym\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\emili\OneDrive\Documentos\Taller web server\Gestion de Gym\Gestion de Gym\bin\Debug\System.Text.Json.dll
+C:\Users\emili\OneDrive\Documentos\Taller web server\Gestion de Gym\Gestion de Gym\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\emili\OneDrive\Documentos\Taller web server\Gestion de Gym\Gestion de Gym\bin\Debug\System.ValueTuple.dll
+C:\Users\emili\OneDrive\Documentos\Taller web server\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\emili\OneDrive\Documentos\Taller web server\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\emili\OneDrive\Documentos\Taller web server\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\emili\OneDrive\Documentos\Taller web server\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\emili\OneDrive\Documentos\Taller web server\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\emili\OneDrive\Documentos\Taller web server\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\emili\OneDrive\Documentos\Taller web server\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\emili\OneDrive\Documentos\Taller web server\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\emili\OneDrive\Documentos\Taller web server\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\emili\OneDrive\Documentos\Taller web server\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\emili\OneDrive\Documentos\Taller web server\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\emili\OneDrive\Documentos\Taller web server\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\emili\OneDrive\Documentos\Taller web server\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\emili\OneDrive\Documentos\Taller web server\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\emili\OneDrive\Documentos\Taller web server\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\emili\OneDrive\Documentos\Taller web server\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\emili\OneDrive\Documentos\Taller web server\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\emili\OneDrive\Documentos\Taller web server\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\emili\OneDrive\Documentos\Taller web server\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\emili\OneDrive\Documentos\Taller web server\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\emili\OneDrive\Documentos\Taller web server\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\emili\OneDrive\Documentos\Taller web server\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\emili\OneDrive\Documentos\Taller web server\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\emili\OneDrive\Documentos\Taller web server\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\emili\OneDrive\Documentos\Taller web server\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\emili\OneDrive\Documentos\Taller web server\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\emili\OneDrive\Documentos\Taller web server\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\emili\OneDrive\Documentos\Taller web server\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\emili\OneDrive\Documentos\Taller web server\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\emili\OneDrive\Documentos\Taller web server\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\emili\OneDrive\Documentos\Taller web server\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\emili\OneDrive\Documentos\Taller web server\Gestion de Gym\Gestion de Gym\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\emili\OneDrive\Documentos\Taller web server\Gestion de Gym\Gestion de Gym\bin\Debug\Newtonsoft.Json.xml
+C:\Users\emili\OneDrive\Documentos\Taller web server\Gestion de Gym\Gestion de Gym\bin\Debug\RestSharp.xml
+C:\Users\emili\OneDrive\Documentos\Taller web server\Gestion de Gym\Gestion de Gym\bin\Debug\System.Buffers.xml
+C:\Users\emili\OneDrive\Documentos\Taller web server\Gestion de Gym\Gestion de Gym\bin\Debug\System.CodeDom.xml
+C:\Users\emili\OneDrive\Documentos\Taller web server\Gestion de Gym\Gestion de Gym\bin\Debug\System.Memory.xml
+C:\Users\emili\OneDrive\Documentos\Taller web server\Gestion de Gym\Gestion de Gym\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\emili\OneDrive\Documentos\Taller web server\Gestion de Gym\Gestion de Gym\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\emili\OneDrive\Documentos\Taller web server\Gestion de Gym\Gestion de Gym\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\emili\OneDrive\Documentos\Taller web server\Gestion de Gym\Gestion de Gym\bin\Debug\System.Text.Json.xml
+C:\Users\emili\OneDrive\Documentos\Taller web server\Gestion de Gym\Gestion de Gym\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\emili\OneDrive\Documentos\Taller web server\Gestion de Gym\Gestion de Gym\bin\Debug\System.ValueTuple.xml
+C:\Users\emili\OneDrive\Documentos\Taller web server\Gestion de Gym\Gestion de Gym\obj\Debug\Gestion de Gym.csproj.AssemblyReference.cache
+C:\Users\emili\OneDrive\Documentos\Taller web server\Gestion de Gym\Gestion de Gym\obj\Debug\Gestion de Gym.csproj.SuggestedBindingRedirects.cache
+C:\Users\emili\OneDrive\Documentos\Taller web server\Gestion de Gym\Gestion de Gym\obj\Debug\Gestion de Gym.exe.config
+C:\Users\emili\OneDrive\Documentos\Taller web server\Gestion de Gym\Gestion de Gym\obj\Debug\Gestion_de_Gym.Forms.addmemberForm.resources
+C:\Users\emili\OneDrive\Documentos\Taller web server\Gestion de Gym\Gestion de Gym\obj\Debug\Gestion_de_Gym.Forms.loginForm.resources
+C:\Users\emili\OneDrive\Documentos\Taller web server\Gestion de Gym\Gestion de Gym\obj\Debug\Gestion_de_Gym.Forms.mainForm.resources
+C:\Users\emili\OneDrive\Documentos\Taller web server\Gestion de Gym\Gestion de Gym\obj\Debug\Gestion_de_Gym.Properties.Resources.resources
+C:\Users\emili\OneDrive\Documentos\Taller web server\Gestion de Gym\Gestion de Gym\obj\Debug\Gestion de Gym.csproj.GenerateResource.cache
+C:\Users\emili\OneDrive\Documentos\Taller web server\Gestion de Gym\Gestion de Gym\obj\Debug\Gestion de Gym.csproj.CoreCompileInputs.cache
+C:\Users\emili\OneDrive\Documentos\Taller web server\Gestion de Gym\Gestion de Gym\obj\Debug\Gestion .4E9C729C.Up2Date
+C:\Users\emili\OneDrive\Documentos\Taller web server\Gestion de Gym\Gestion de Gym\obj\Debug\Gestion de Gym.exe
+C:\Users\emili\OneDrive\Documentos\Taller web server\Gestion de Gym\Gestion de Gym\obj\Debug\Gestion de Gym.pdb
+C:\Users\emili\OneDrive\Documentos\Taller web server\Gestion de Gym\Gestion de Gym\obj\Debug\Gestion_de_Gym.Forms.updateDeleteForm.resources
+D:\Proyectos de software\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\Gestion de Gym.exe.config
+D:\Proyectos de software\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\Gestion de Gym.exe
+D:\Proyectos de software\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\Gestion de Gym.pdb
+D:\Proyectos de software\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.Licensing.dll
+D:\Proyectos de software\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+D:\Proyectos de software\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\Proyectos de software\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+D:\Proyectos de software\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+D:\Proyectos de software\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+D:\Proyectos de software\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+D:\Proyectos de software\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+D:\Proyectos de software\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+D:\Proyectos de software\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+D:\Proyectos de software\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+D:\Proyectos de software\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+D:\Proyectos de software\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+D:\Proyectos de software\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+D:\Proyectos de software\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+D:\Proyectos de software\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+D:\Proyectos de software\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+D:\Proyectos de software\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+D:\Proyectos de software\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+D:\Proyectos de software\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+D:\Proyectos de software\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+D:\Proyectos de software\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+D:\Proyectos de software\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+D:\Proyectos de software\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+D:\Proyectos de software\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+D:\Proyectos de software\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+D:\Proyectos de software\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+D:\Proyectos de software\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+D:\Proyectos de software\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+D:\Proyectos de software\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+D:\Proyectos de software\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+D:\Proyectos de software\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+D:\Proyectos de software\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+D:\Proyectos de software\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\Guna.UI2.dll
+D:\Proyectos de software\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Proyectos de software\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\Newtonsoft.Json.dll
+D:\Proyectos de software\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\RestSharp.dll
+D:\Proyectos de software\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\System.Buffers.dll
+D:\Proyectos de software\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\System.CodeDom.dll
+D:\Proyectos de software\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\System.Memory.dll
+D:\Proyectos de software\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\System.Numerics.Vectors.dll
+D:\Proyectos de software\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Proyectos de software\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\System.Text.Encodings.Web.dll
+D:\Proyectos de software\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\System.Text.Json.dll
+D:\Proyectos de software\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Proyectos de software\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\System.ValueTuple.dll
+D:\Proyectos de software\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+D:\Proyectos de software\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+D:\Proyectos de software\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+D:\Proyectos de software\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+D:\Proyectos de software\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+D:\Proyectos de software\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+D:\Proyectos de software\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+D:\Proyectos de software\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+D:\Proyectos de software\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+D:\Proyectos de software\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+D:\Proyectos de software\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+D:\Proyectos de software\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+D:\Proyectos de software\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+D:\Proyectos de software\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+D:\Proyectos de software\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+D:\Proyectos de software\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+D:\Proyectos de software\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+D:\Proyectos de software\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+D:\Proyectos de software\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+D:\Proyectos de software\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+D:\Proyectos de software\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+D:\Proyectos de software\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+D:\Proyectos de software\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+D:\Proyectos de software\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+D:\Proyectos de software\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+D:\Proyectos de software\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+D:\Proyectos de software\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+D:\Proyectos de software\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+D:\Proyectos de software\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+D:\Proyectos de software\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+D:\Proyectos de software\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+D:\Proyectos de software\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Proyectos de software\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\Newtonsoft.Json.xml
+D:\Proyectos de software\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\RestSharp.xml
+D:\Proyectos de software\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\System.Buffers.xml
+D:\Proyectos de software\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\System.CodeDom.xml
+D:\Proyectos de software\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\System.Memory.xml
+D:\Proyectos de software\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\System.Numerics.Vectors.xml
+D:\Proyectos de software\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Proyectos de software\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\System.Text.Encodings.Web.xml
+D:\Proyectos de software\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\System.Text.Json.xml
+D:\Proyectos de software\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Proyectos de software\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\System.ValueTuple.xml
+D:\Proyectos de software\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\obj\Debug\Gestion de Gym.csproj.AssemblyReference.cache
+D:\Proyectos de software\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\obj\Debug\Gestion de Gym.csproj.SuggestedBindingRedirects.cache
+D:\Proyectos de software\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\obj\Debug\Gestion de Gym.exe.config
+D:\Proyectos de software\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\obj\Debug\Gestion_de_Gym.Forms.addmemberForm.resources
+D:\Proyectos de software\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\obj\Debug\Gestion_de_Gym.Forms.adduserForm.resources
+D:\Proyectos de software\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\obj\Debug\Gestion_de_Gym.Forms.loginForm.resources
+D:\Proyectos de software\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\obj\Debug\Gestion_de_Gym.Forms.mainForm.resources
+D:\Proyectos de software\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\obj\Debug\Gestion_de_Gym.Forms.paymentsForms.resources
+D:\Proyectos de software\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\obj\Debug\Gestion_de_Gym.Forms.updateDeleteForm.resources
+D:\Proyectos de software\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\obj\Debug\Gestion_de_Gym.Forms.viewMemberForm.resources
+D:\Proyectos de software\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\obj\Debug\Gestion_de_Gym.Properties.Resources.resources
+D:\Proyectos de software\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\obj\Debug\Gestion de Gym.csproj.GenerateResource.cache
+D:\Proyectos de software\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\obj\Debug\Gestion de Gym.csproj.CoreCompileInputs.cache
+D:\Proyectos de software\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\obj\Debug\Gestion .4E9C729C.Up2Date
+D:\Proyectos de software\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\obj\Debug\Gestion de Gym.exe
+D:\Proyectos de software\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\obj\Debug\Gestion de Gym.pdb

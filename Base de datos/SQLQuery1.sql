@@ -1,0 +1,37 @@
+CREATE DATABASE GymDb
+GO
+
+USE GymDb
+GO
+
+CREATE TABLE UserTbl(
+UsId INT NOT NULL PRIMARY KEY IDENTITY, 
+UsName VARCHAR(50) NOT NULL,
+UsPassword VARCHAR(50) NOT NULL,
+UsRange VARCHAR(50) NOT NULL
+);
+Go
+
+select * from UserTbl
+DELETE FROM UserTbl WHERE UsId = 1
+
+CREATE TABLE MemberTbl(
+MId INT NOT NULL PRIMARY KEY IDENTITY,   
+MName VARCHAR(50) NOT NULL,     --Nombre
+MPhone VARCHAR(50) NOT NULL,    --Telefono
+MGen VARCHAR(50) NOT NULL,		--Genero
+MAge INT NOT NULL,				--Edad
+MAmount INT NOT NULL,           --Cantidad
+MTiming	VARCHAR(50) NOT NULL,	--Hora o Tiempo
+IdUser INT FOREIGN KEY REFERENCES UserTbl(UsId)
+)
+GO
+
+CREATE TABLE PaymentTbl(
+PId INT NOT NULL PRIMARY KEY IDENTITY,   
+PMonth VARCHAR(50) NOT NULL,        --Mes
+IdMember INT FOREIGN KEY REFERENCES MemberTbl(MId),
+PAmount INT NOT NULL				--Cantidad
+)
+GO
+
