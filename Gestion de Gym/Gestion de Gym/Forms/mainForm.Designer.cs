@@ -39,6 +39,7 @@
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.AgregarUsuario = new Bunifu.Framework.UI.BunifuThinButton2();
             this.labelFechaYHora = new System.Windows.Forms.TextBox();
+            this.textBoxRango = new System.Windows.Forms.TextBox();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
@@ -66,6 +67,7 @@
             this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox2.TabIndex = 12;
             this.pictureBox2.TabStop = false;
+            this.pictureBox2.Click += new System.EventHandler(this.pictureBox2_Click);
             // 
             // actualizar
             // 
@@ -176,7 +178,7 @@
             this.textBoxUsuario.Enabled = false;
             this.textBoxUsuario.Location = new System.Drawing.Point(12, 58);
             this.textBoxUsuario.Name = "textBoxUsuario";
-            this.textBoxUsuario.Size = new System.Drawing.Size(153, 20);
+            this.textBoxUsuario.Size = new System.Drawing.Size(92, 20);
             this.textBoxUsuario.TabIndex = 7;
             // 
             // pictureBox1
@@ -201,6 +203,7 @@
             this.AgregarUsuario.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("AgregarUsuario.BackgroundImage")));
             this.AgregarUsuario.ButtonText = "Agregar Usuario";
             this.AgregarUsuario.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.AgregarUsuario.Enabled = false;
             this.AgregarUsuario.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.AgregarUsuario.ForeColor = System.Drawing.Color.SeaGreen;
             this.AgregarUsuario.IdleBorderThickness = 1;
@@ -224,11 +227,20 @@
             this.labelFechaYHora.Size = new System.Drawing.Size(212, 20);
             this.labelFechaYHora.TabIndex = 10;
             // 
+            // textBoxRango
+            // 
+            this.textBoxRango.Enabled = false;
+            this.textBoxRango.Location = new System.Drawing.Point(110, 58);
+            this.textBoxRango.Name = "textBoxRango";
+            this.textBoxRango.Size = new System.Drawing.Size(92, 20);
+            this.textBoxRango.TabIndex = 11;
+            // 
             // mainForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.textBoxRango);
             this.Controls.Add(this.labelFechaYHora);
             this.Controls.Add(this.AgregarUsuario);
             this.Controls.Add(this.textBoxUsuario);
@@ -259,5 +271,6 @@
         private System.Windows.Forms.TextBox textBoxUsuario;
         private Bunifu.Framework.UI.BunifuThinButton2 AgregarUsuario;
         private System.Windows.Forms.TextBox labelFechaYHora;
+        private System.Windows.Forms.TextBox textBoxRango;
     }
 }

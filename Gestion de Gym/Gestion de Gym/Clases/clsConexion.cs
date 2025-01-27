@@ -11,14 +11,14 @@ namespace Gestion_de_Gym.Clases
     {
         public static string conectar()
         {
-            string con = @"DATA SOURCE=DESKTOP-7LSE7ES\SQLEXPRESS;INITIAL CATALOG=GymDb;USER=SA;PASSWORD=6870021";
+            string con = @"DATA Source=DESKTOP-FB108VB\SQLEXPRESS;INITIAL CATALOG=GymDb;USER=sa;PASSWORD=6870021";
 
             return con;
         }
 
         //public static string conectar()
         //{
-        //    string conString = @"DATA SOURCE=DESKTOP-7LSE7ES\SQLEXPRESS;INITIAL CATALOG=GymDb;USER=SA;PASSWORD=6870021";
+        //    string conString = @"DATA Source=DESKTOP-FB108VB\SQLEXPRESS;INITIAL CATALOG=GymDb;USER=sa;PASSWORD=6870021";
 
         //    try
         //    {

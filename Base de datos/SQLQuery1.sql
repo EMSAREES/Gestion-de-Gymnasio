@@ -7,10 +7,13 @@ GO
 CREATE TABLE UserTbl(
 UsId INT NOT NULL PRIMARY KEY IDENTITY, 
 UsName VARCHAR(50) NOT NULL,
-UsPassword VARCHAR(50) NOT NULL,
+UsPassword VARCHAR(150) NOT NULL,
 UsRange VARCHAR(50) NOT NULL
 );
 Go
+
+insert into UserTbl (UsName, UsPassword, UsRange) 
+VALUES ('Admin', 'c1c224b03cd9bc7b6a86d77f5dace40191766c485cd55dc48caf9ac873335d6f', 'Admin');
 
 select * from UserTbl
 DELETE FROM UserTbl WHERE UsId = 1

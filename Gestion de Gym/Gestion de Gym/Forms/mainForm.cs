@@ -17,19 +17,31 @@ namespace Gestion_de_Gym.Forms
         public mainForm()
         {
             InitializeComponent();
+
         }
 
         private void mainForm_Load(object sender, EventArgs e)
         {
             // Mostrar el nombre de usuario logueado en el TextBox
             textBoxUsuario.Text = UsuarioLogueado.NombreUsuario;
-
+            textBoxRango.Text = UsuarioLogueado.RangoUsuario;
             // Obtener la fecha y hora actual
             DateTime fechaYHoraActual = DateTime.Now;
 
             // Actualizar el texto del Label con la fecha y hora actual
-            labelFechaYHora.Text = $"Fecha y hora actual: {fechaYHoraActual}";
+            labelFechaYHora.Text = $"{fechaYHoraActual}";
 
+            if (textBoxRango.Text == "Admin")
+            {
+                AgregarUsuario.Enabled = true;
+                AgregarUsuario.Visible = true;   // El botón será visible
+
+            }
+            else
+            {
+                AgregarUsuario.Visible = false;  // El botón será invisible
+
+            }
         }
 
         private void agregar_Click(object sender, EventArgs e)
@@ -67,6 +79,11 @@ namespace Gestion_de_Gym.Forms
             adduserForm.Show();
         }
 
-
+        private void pictureBox2_Click(object sender, EventArgs e)
+        {
+            loginForm loginForm = new loginForm();
+            this.Hide();
+            loginForm.Show();
+        }
     }
 }

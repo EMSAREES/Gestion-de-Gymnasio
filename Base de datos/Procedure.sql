@@ -3,7 +3,7 @@ create procedure SP_UserTbl (
 @OP tinyint = 0,
 @UsId INT = 0, 
 @UsName VARCHAR(50) = NULL,
-@UsPassword VARCHAR(50) = NULL,
+@UsPassword VARCHAR(150) = NULL,
 @UsRange VARCHAR(50) = NULL
 )
 
@@ -13,8 +13,8 @@ BEGIN
 	BEGIN
 		IF NOT EXISTS (SELECT * FROM UserTbl WHERE UsId = @UsId)
 		BEGIN
-			INSERT INTO UserTbl(UsId, UsName, UsPassword, UsRange) 
-			VALUES(@UsId, @UsName, @UsPassword, @UsRange)
+			INSERT INTO UserTbl( UsName, UsPassword, UsRange) 
+			VALUES( @UsName, @UsPassword, @UsRange)
 		END
 		ELSE
 		BEGIN
@@ -91,3 +91,34 @@ BEGIN
 		DELETE FROM PaymentTbl WHERE PId = @PId
 	END
 END
+
+-----------------------------------------------login---------------------------------------------------------------------------
+CREATE PROCEDURE Sp_LoginUsuario
+	@UsName VARCHAR(50) = NULL,
+	@UsPassword VARCHAR(150) = NULL,
+    @result BIT OUTPUT
+AS
+BEGIN
+    -- Initialize all output variable
+    SET @result = 0;
+
+    --Validate if the username and password exist
+    IF EXISTS (SELECT 1 FROM UserTbl WHERE UsName = @UsName AND UsPassword = @UsPassword)
+    BEGIN
+        SET @result = 1; -- Usuario encontrado
+    END
+END
+GO
+
+--run everything together
+DECLARE @result BIT; -- We declare the output variable
+
+-- We execute the stored procedure
+EXEC Sp_LoginUsuario 
+    @UsName = 'Admin', 
+    @UsPassword = 'c1c224b03cd9bc7b6a86d77f5dace40191766c485cd55dc48caf9ac873335d6f', 
+    @result = @result OUTPUT;
+
+-- We show the result
+SELECT @result AS Resultado;
+

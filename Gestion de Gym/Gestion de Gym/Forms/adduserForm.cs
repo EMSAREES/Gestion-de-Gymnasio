@@ -69,6 +69,7 @@ namespace Gestion_de_Gym.Forms
             }
         }
 
+        
         //es el consecutivo que agarra el ultimo id y lo umenta 1
         private void consecutivo()
         {
@@ -101,6 +102,32 @@ namespace Gestion_de_Gym.Forms
 
            // return proximoId; // Devolver el próximo ID consecutivo obtenido de la consulta
         }
+
+        private bool UsuarioExiste(string nombreUsuario, string contraseña)
+        {
+            bool existe = false;
+            SqlConnection con = new SqlConnection(clsConexion.conectar());
+            SqlCommand cmd = new SqlCommand("SELECT COUNT(*) FROM UserTbl WHERE UsName = @UsName AND UsPassword = @UsPassword", con);
+            cmd.Parameters.AddWithValue("@UsName", nombreUsuario);
+            cmd.Parameters.AddWithValue("@UsPassword", contraseña);
+
+            try
+            {
+                con.Open();
+                existe = (int)cmd.ExecuteScalar() > 0;  // Directamente asignando el resultado
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show($"Error al verificar si el usuario existe: {ex.Message}");
+            }
+            finally
+            {
+                con.Close();
+            }
+
+            return existe;
+        }
+
 
         private void label3_Click(object sender, EventArgs e)
         {
@@ -151,7 +178,7 @@ namespace Gestion_de_Gym.Forms
         private void agregar()
         {
             clsAgregarUsasrio clsAgregar = new clsAgregarUsasrio();
-           
+
             clsAgregar.iUsId = int.Parse(idtemporal);
             clsAgregar.sUsName = txtNombre.Text.ToString();
             clsAgregar.sUsPassword = clsEncrypt.GetSHA256(txtContraseña.Text);
@@ -163,7 +190,14 @@ namespace Gestion_de_Gym.Forms
             }
             else
             {
-                if(clsAgregar.Guardar() == true)
+                // Verificar si el usuario ya existe antes de guardar
+                if (UsuarioExiste(clsAgregar.sUsName, clsAgregar.sUsPassword))
+                {
+                    MessageBox.Show("El usuario ya existe.");
+                    return; // Detener la ejecución si el usuario ya existe
+                }
+
+                if (clsAgregar.Guardar() == true)
                 {
                     MessageBox.Show("Sus datos se a Guardado correctamente");
                     limpiar();
@@ -202,6 +236,8 @@ namespace Gestion_de_Gym.Forms
             txtContraseña.Clear();
             txtConfirmarContraseña.Clear() ;
         }
+
+
 
        
     }
