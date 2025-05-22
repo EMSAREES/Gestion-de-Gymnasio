@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Gestion_de_Gym.Clases;
 using static Gestion_de_Gym.Forms.loginForm;
 
 namespace Gestion_de_Gym.Forms
@@ -17,6 +18,9 @@ namespace Gestion_de_Gym.Forms
         public mainForm()
         {
             InitializeComponent();
+
+            clsAgregarPago pago = new clsAgregarPago();
+            pago.ActualizarPagosVencidos();
 
         }
 
@@ -33,13 +37,13 @@ namespace Gestion_de_Gym.Forms
 
             if (textBoxRango.Text == "Admin")
             {
-                AgregarUsuario.Enabled = true;
-                AgregarUsuario.Visible = true;   // El botón será visible
+                adminBtn.Enabled = true;
+                adminBtn.Visible = true;   // El botón será visible
 
             }
             else
             {
-                AgregarUsuario.Visible = false;  // El botón será invisible
+                adminBtn.Visible = false;  // El botón será invisible
 
             }
         }
@@ -53,7 +57,7 @@ namespace Gestion_de_Gym.Forms
 
         private void actualizar_Click(object sender, EventArgs e)
         {
-            updateDeleteForm updateDeleteForm = new updateDeleteForm();
+            searchSuscritosForm updateDeleteForm = new searchSuscritosForm();
             this.Hide();
             updateDeleteForm.Show();
         }
@@ -74,9 +78,9 @@ namespace Gestion_de_Gym.Forms
 
         private void AgregarUsuario_Click(object sender, EventArgs e)
         {
-            adduserForm adduserForm = new adduserForm();
+            adminForm adminForm = new adminForm();
             this.Hide();
-            adduserForm.Show();
+            adminForm.Show();
         }
 
         private void pictureBox2_Click(object sender, EventArgs e)

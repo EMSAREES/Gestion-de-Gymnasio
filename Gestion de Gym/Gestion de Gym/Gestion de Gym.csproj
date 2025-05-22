@@ -132,17 +132,45 @@
     <Reference Include="Bunifu.UI.WinForms.Deprecated, Version=4.1.1.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
       <HintPath>..\packages\Bunifu.UI.WinForms.5.0.1\lib\Bunifu.UI.WinForms.Deprecated.dll</HintPath>
     </Reference>
+    <Reference Include="ClosedXML, Version=0.105.0.0, Culture=neutral, PublicKeyToken=fd1eb21b62ae805b, processorArchitecture=MSIL">
+      <HintPath>..\packages\ClosedXML.0.105.0\lib\netstandard2.0\ClosedXML.dll</HintPath>
+    </Reference>
+    <Reference Include="ClosedXML.Parser, Version=1.0.0.0, Culture=neutral, PublicKeyToken=1d5f7376574c51ec, processorArchitecture=MSIL">
+      <HintPath>..\packages\ClosedXML.Parser.2.0.0\lib\netstandard2.0\ClosedXML.Parser.dll</HintPath>
+    </Reference>
+    <Reference Include="DocumentFormat.OpenXml, Version=3.1.1.0, Culture=neutral, PublicKeyToken=8fb06cb64d019a17, processorArchitecture=MSIL">
+      <HintPath>..\packages\DocumentFormat.OpenXml.3.1.1\lib\net46\DocumentFormat.OpenXml.dll</HintPath>
+    </Reference>
+    <Reference Include="DocumentFormat.OpenXml.Framework, Version=3.1.1.0, Culture=neutral, PublicKeyToken=8fb06cb64d019a17, processorArchitecture=MSIL">
+      <HintPath>..\packages\DocumentFormat.OpenXml.Framework.3.1.1\lib\net46\DocumentFormat.OpenXml.Framework.dll</HintPath>
+    </Reference>
+    <Reference Include="ExcelNumberFormat, Version=1.1.0.0, Culture=neutral, PublicKeyToken=23c6f5d73be07eca, processorArchitecture=MSIL">
+      <HintPath>..\packages\ExcelNumberFormat.1.1.0\lib\net20\ExcelNumberFormat.dll</HintPath>
+    </Reference>
     <Reference Include="Guna.UI2, Version=2.0.4.6, Culture=neutral, PublicKeyToken=8b9d14aa5142e261, processorArchitecture=MSIL">
       <HintPath>..\packages\Guna.UI2.WinForms.2.0.4.6\lib\net472\Guna.UI2.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.Bcl.AsyncInterfaces, Version=7.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
       <HintPath>..\packages\Microsoft.Bcl.AsyncInterfaces.7.0.0\lib\net462\Microsoft.Bcl.AsyncInterfaces.dll</HintPath>
     </Reference>
+    <Reference Include="Microsoft.Bcl.HashCode, Version=1.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Bcl.HashCode.1.1.1\lib\net461\Microsoft.Bcl.HashCode.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.IO.RecyclableMemoryStream, Version=3.0.1.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.IO.RecyclableMemoryStream.3.0.1\lib\netstandard2.0\Microsoft.IO.RecyclableMemoryStream.dll</HintPath>
+    </Reference>
     <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
       <HintPath>..\packages\Newtonsoft.Json.13.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
     </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="RBush, Version=4.0.0.0, Culture=neutral, PublicKeyToken=c77e27b81f4d0187, processorArchitecture=MSIL">
+      <HintPath>..\packages\RBush.Signed.4.0.0\lib\net47\RBush.dll</HintPath>
+    </Reference>
     <Reference Include="RestSharp, Version=110.2.0.0, Culture=neutral, PublicKeyToken=598062e77f915f75, processorArchitecture=MSIL">
       <HintPath>..\packages\RestSharp.110.2.0\lib\net471\RestSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="SixLabors.Fonts, Version=1.0.0.0, Culture=neutral, PublicKeyToken=d998eea7b14cab13, processorArchitecture=MSIL">
+      <HintPath>..\packages\SixLabors.Fonts.1.0.0\lib\netstandard2.0\SixLabors.Fonts.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
@@ -151,6 +179,11 @@
     <Reference Include="System.CodeDom, Version=8.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
       <HintPath>..\packages\System.CodeDom.8.0.0\lib\net462\System.CodeDom.dll</HintPath>
     </Reference>
+    <Reference Include="System.ComponentModel.Annotations, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.ComponentModel.Annotations.5.0.0\lib\net461\System.ComponentModel.Annotations.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.configuration" />
     <Reference Include="System.Core" />
     <Reference Include="System.Design" />
     <Reference Include="System.Management" />
@@ -163,6 +196,10 @@
     </Reference>
     <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
       <HintPath>..\packages\System.Runtime.CompilerServices.Unsafe.6.0.0\lib\net461\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security" />
+    <Reference Include="System.Security.Cryptography.Xml, Version=8.0.0.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Security.Cryptography.Xml.8.0.2\lib\net462\System.Security.Cryptography.Xml.dll</HintPath>
     </Reference>
     <Reference Include="System.Text.Encodings.Web, Version=7.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
       <HintPath>..\packages\System.Text.Encodings.Web.7.0.0\lib\net462\System.Text.Encodings.Web.dll</HintPath>
@@ -186,8 +223,12 @@
     <Reference Include="System.Net.Http" />
     <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Clases\clsAgregarMiembro.cs" />
+    <Compile Include="Clases\clsAgregarPago.cs" />
+    <Compile Include="Clases\clsAgregarPlan.cs" />
     <Compile Include="Clases\clsAgregarUsasrio.cs" />
     <Compile Include="Clases\clsConexion.cs" />
     <Compile Include="Clases\clsEncrypt.cs" />
@@ -198,11 +239,23 @@
     <Compile Include="Forms\addmemberForm.Designer.cs">
       <DependentUpon>addmemberForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="Forms\addPlanForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\addPlanForm.Designer.cs">
+      <DependentUpon>addPlanForm.cs</DependentUpon>
+    </Compile>
     <Compile Include="Forms\adduserForm.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Forms\adduserForm.Designer.cs">
       <DependentUpon>adduserForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\adminForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\adminForm.Designer.cs">
+      <DependentUpon>adminForm.cs</DependentUpon>
     </Compile>
     <Compile Include="Forms\loginForm.cs">
       <SubType>Form</SubType>
@@ -222,11 +275,11 @@
     <Compile Include="Forms\paymentsForms.Designer.cs">
       <DependentUpon>paymentsForms.cs</DependentUpon>
     </Compile>
-    <Compile Include="Forms\updateDeleteForm.cs">
+    <Compile Include="Forms\searchSuscritosForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Forms\updateDeleteForm.Designer.cs">
-      <DependentUpon>updateDeleteForm.cs</DependentUpon>
+    <Compile Include="Forms\searchSuscritosForm.Designer.cs">
+      <DependentUpon>searchSuscritosForm.cs</DependentUpon>
     </Compile>
     <Compile Include="Forms\viewMemberForm.cs">
       <SubType>Form</SubType>
@@ -239,8 +292,14 @@
     <EmbeddedResource Include="Forms\addmemberForm.resx">
       <DependentUpon>addmemberForm.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Forms\addPlanForm.resx">
+      <DependentUpon>addPlanForm.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Forms\adduserForm.resx">
       <DependentUpon>adduserForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\adminForm.resx">
+      <DependentUpon>adminForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\loginForm.resx">
       <DependentUpon>loginForm.cs</DependentUpon>
@@ -251,8 +310,8 @@
     <EmbeddedResource Include="Forms\paymentsForms.resx">
       <DependentUpon>paymentsForms.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Forms\updateDeleteForm.resx">
-      <DependentUpon>updateDeleteForm.cs</DependentUpon>
+    <EmbeddedResource Include="Forms\searchSuscritosForm.resx">
+      <DependentUpon>searchSuscritosForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\viewMemberForm.resx">
       <DependentUpon>viewMemberForm.cs</DependentUpon>

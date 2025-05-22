@@ -37,7 +37,7 @@
             this.Lista = new Bunifu.Framework.UI.BunifuThinButton2();
             this.textBoxUsuario = new System.Windows.Forms.TextBox();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
-            this.AgregarUsuario = new Bunifu.Framework.UI.BunifuThinButton2();
+            this.adminBtn = new Bunifu.Framework.UI.BunifuThinButton2();
             this.labelFechaYHora = new System.Windows.Forms.TextBox();
             this.textBoxRango = new System.Windows.Forms.TextBox();
             this.panel1.SuspendLayout();
@@ -78,7 +78,7 @@
             this.actualizar.ActiveLineColor = System.Drawing.Color.Crimson;
             this.actualizar.BackColor = System.Drawing.SystemColors.Control;
             this.actualizar.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("actualizar.BackgroundImage")));
-            this.actualizar.ButtonText = "Actualizar/Eliminar";
+            this.actualizar.ButtonText = "Suscriptos";
             this.actualizar.Cursor = System.Windows.Forms.Cursors.Hand;
             this.actualizar.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.actualizar.ForeColor = System.Drawing.Color.SeaGreen;
@@ -87,7 +87,7 @@
             this.actualizar.IdleFillColor = System.Drawing.Color.White;
             this.actualizar.IdleForecolor = System.Drawing.Color.Crimson;
             this.actualizar.IdleLineColor = System.Drawing.Color.White;
-            this.actualizar.Location = new System.Drawing.Point(313, 5);
+            this.actualizar.Location = new System.Drawing.Point(631, 5);
             this.actualizar.Margin = new System.Windows.Forms.Padding(5);
             this.actualizar.Name = "actualizar";
             this.actualizar.Size = new System.Drawing.Size(164, 42);
@@ -113,7 +113,7 @@
             this.Pago.IdleFillColor = System.Drawing.Color.White;
             this.Pago.IdleForecolor = System.Drawing.Color.Crimson;
             this.Pago.IdleLineColor = System.Drawing.Color.White;
-            this.Pago.Location = new System.Drawing.Point(633, 5);
+            this.Pago.Location = new System.Drawing.Point(459, 5);
             this.Pago.Margin = new System.Windows.Forms.Padding(5);
             this.Pago.Name = "Pago";
             this.Pago.Size = new System.Drawing.Size(154, 42);
@@ -165,7 +165,7 @@
             this.Lista.IdleFillColor = System.Drawing.Color.White;
             this.Lista.IdleForecolor = System.Drawing.Color.Crimson;
             this.Lista.IdleLineColor = System.Drawing.Color.White;
-            this.Lista.Location = new System.Drawing.Point(487, 5);
+            this.Lista.Location = new System.Drawing.Point(313, 5);
             this.Lista.Margin = new System.Windows.Forms.Padding(5);
             this.Lista.Name = "Lista";
             this.Lista.Size = new System.Drawing.Size(136, 42);
@@ -192,32 +192,32 @@
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;
             // 
-            // AgregarUsuario
+            // adminBtn
             // 
-            this.AgregarUsuario.ActiveBorderThickness = 1;
-            this.AgregarUsuario.ActiveCornerRadius = 20;
-            this.AgregarUsuario.ActiveFillColor = System.Drawing.Color.Crimson;
-            this.AgregarUsuario.ActiveForecolor = System.Drawing.Color.White;
-            this.AgregarUsuario.ActiveLineColor = System.Drawing.Color.Crimson;
-            this.AgregarUsuario.BackColor = System.Drawing.SystemColors.Control;
-            this.AgregarUsuario.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("AgregarUsuario.BackgroundImage")));
-            this.AgregarUsuario.ButtonText = "Agregar Usuario";
-            this.AgregarUsuario.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.AgregarUsuario.Enabled = false;
-            this.AgregarUsuario.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.AgregarUsuario.ForeColor = System.Drawing.Color.SeaGreen;
-            this.AgregarUsuario.IdleBorderThickness = 1;
-            this.AgregarUsuario.IdleCornerRadius = 30;
-            this.AgregarUsuario.IdleFillColor = System.Drawing.Color.White;
-            this.AgregarUsuario.IdleForecolor = System.Drawing.Color.Crimson;
-            this.AgregarUsuario.IdleLineColor = System.Drawing.Color.White;
-            this.AgregarUsuario.Location = new System.Drawing.Point(641, 394);
-            this.AgregarUsuario.Margin = new System.Windows.Forms.Padding(5);
-            this.AgregarUsuario.Name = "AgregarUsuario";
-            this.AgregarUsuario.Size = new System.Drawing.Size(154, 42);
-            this.AgregarUsuario.TabIndex = 9;
-            this.AgregarUsuario.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            this.AgregarUsuario.Click += new System.EventHandler(this.AgregarUsuario_Click);
+            this.adminBtn.ActiveBorderThickness = 1;
+            this.adminBtn.ActiveCornerRadius = 20;
+            this.adminBtn.ActiveFillColor = System.Drawing.Color.Crimson;
+            this.adminBtn.ActiveForecolor = System.Drawing.Color.White;
+            this.adminBtn.ActiveLineColor = System.Drawing.Color.Crimson;
+            this.adminBtn.BackColor = System.Drawing.SystemColors.Control;
+            this.adminBtn.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("adminBtn.BackgroundImage")));
+            this.adminBtn.ButtonText = "Admin";
+            this.adminBtn.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.adminBtn.Enabled = false;
+            this.adminBtn.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.adminBtn.ForeColor = System.Drawing.Color.SeaGreen;
+            this.adminBtn.IdleBorderThickness = 1;
+            this.adminBtn.IdleCornerRadius = 30;
+            this.adminBtn.IdleFillColor = System.Drawing.Color.White;
+            this.adminBtn.IdleForecolor = System.Drawing.Color.Crimson;
+            this.adminBtn.IdleLineColor = System.Drawing.Color.White;
+            this.adminBtn.Location = new System.Drawing.Point(641, 394);
+            this.adminBtn.Margin = new System.Windows.Forms.Padding(5);
+            this.adminBtn.Name = "adminBtn";
+            this.adminBtn.Size = new System.Drawing.Size(154, 42);
+            this.adminBtn.TabIndex = 9;
+            this.adminBtn.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.adminBtn.Click += new System.EventHandler(this.AgregarUsuario_Click);
             // 
             // labelFechaYHora
             // 
@@ -242,7 +242,7 @@
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.textBoxRango);
             this.Controls.Add(this.labelFechaYHora);
-            this.Controls.Add(this.AgregarUsuario);
+            this.Controls.Add(this.adminBtn);
             this.Controls.Add(this.textBoxUsuario);
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.pictureBox1);
@@ -269,7 +269,7 @@
         private System.Windows.Forms.Panel panel1;
         private System.Windows.Forms.PictureBox pictureBox2;
         private System.Windows.Forms.TextBox textBoxUsuario;
-        private Bunifu.Framework.UI.BunifuThinButton2 AgregarUsuario;
+        private Bunifu.Framework.UI.BunifuThinButton2 adminBtn;
         private System.Windows.Forms.TextBox labelFechaYHora;
         private System.Windows.Forms.TextBox textBoxRango;
     }

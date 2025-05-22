@@ -311,7 +311,6 @@ C:\Users\emili\OneDrive\Documentos\Proyectos\C#\Gestion de Gymnasio\Gestion de G
 C:\Users\emili\OneDrive\Documentos\Proyectos\C#\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\obj\Debug\Gestion_de_Gym.Forms.loginForm.resources
 C:\Users\emili\OneDrive\Documentos\Proyectos\C#\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\obj\Debug\Gestion_de_Gym.Forms.mainForm.resources
 C:\Users\emili\OneDrive\Documentos\Proyectos\C#\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\obj\Debug\Gestion_de_Gym.Forms.paymentsForms.resources
-C:\Users\emili\OneDrive\Documentos\Proyectos\C#\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\obj\Debug\Gestion_de_Gym.Forms.updateDeleteForm.resources
 C:\Users\emili\OneDrive\Documentos\Proyectos\C#\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\obj\Debug\Gestion_de_Gym.Forms.viewMemberForm.resources
 C:\Users\emili\OneDrive\Documentos\Proyectos\C#\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\obj\Debug\Gestion_de_Gym.Properties.Resources.resources
 C:\Users\emili\OneDrive\Documentos\Proyectos\C#\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\obj\Debug\Gestion de Gym.csproj.GenerateResource.cache
@@ -319,3 +318,28 @@ C:\Users\emili\OneDrive\Documentos\Proyectos\C#\Gestion de Gymnasio\Gestion de G
 C:\Users\emili\OneDrive\Documentos\Proyectos\C#\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\obj\Debug\Gestion .4E9C729C.Up2Date
 C:\Users\emili\OneDrive\Documentos\Proyectos\C#\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\obj\Debug\Gestion de Gym.exe
 C:\Users\emili\OneDrive\Documentos\Proyectos\C#\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\obj\Debug\Gestion de Gym.pdb
+C:\Users\emili\OneDrive\Documentos\Proyectos\C#\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\obj\Debug\Gestion_de_Gym.Forms.adminForm.resources
+C:\Users\emili\OneDrive\Documentos\Proyectos\C#\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\obj\Debug\Gestion_de_Gym.Forms.addPlanForm.resources
+C:\Users\emili\OneDrive\Documentos\Proyectos\C#\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\obj\Debug\Gestion_de_Gym.Forms.searchSuscritosForm.resources
+C:\Users\emili\OneDrive\Documentos\Proyectos\C#\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\emili\OneDrive\Documentos\Proyectos\C#\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\emili\OneDrive\Documentos\Proyectos\C#\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Users\emili\OneDrive\Documentos\Proyectos\C#\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\emili\OneDrive\Documentos\Proyectos\C#\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\emili\OneDrive\Documentos\Proyectos\C#\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\ClosedXML.dll
+C:\Users\emili\OneDrive\Documentos\Proyectos\C#\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\ClosedXML.Parser.dll
+C:\Users\emili\OneDrive\Documentos\Proyectos\C#\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\emili\OneDrive\Documentos\Proyectos\C#\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\emili\OneDrive\Documentos\Proyectos\C#\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\ExcelNumberFormat.dll
+C:\Users\emili\OneDrive\Documentos\Proyectos\C#\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\emili\OneDrive\Documentos\Proyectos\C#\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\RBush.dll
+C:\Users\emili\OneDrive\Documentos\Proyectos\C#\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\SixLabors.Fonts.dll
+C:\Users\emili\OneDrive\Documentos\Proyectos\C#\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\ClosedXML.pdb
+C:\Users\emili\OneDrive\Documentos\Proyectos\C#\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\ClosedXML.xml
+C:\Users\emili\OneDrive\Documentos\Proyectos\C#\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\ClosedXML.Parser.xml
+C:\Users\emili\OneDrive\Documentos\Proyectos\C#\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\emili\OneDrive\Documentos\Proyectos\C#\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\emili\OneDrive\Documentos\Proyectos\C#\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\ExcelNumberFormat.xml
+C:\Users\emili\OneDrive\Documentos\Proyectos\C#\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\emili\OneDrive\Documentos\Proyectos\C#\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\RBush.xml
+C:\Users\emili\OneDrive\Documentos\Proyectos\C#\Gestion de Gymnasio\Gestion de Gym\Gestion de Gym\bin\Debug\SixLabors.Fonts.xml

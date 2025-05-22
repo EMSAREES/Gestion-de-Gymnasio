@@ -3,28 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\emili\\OneDrive\\Documentos\\Proyectos\\C#\\Gestion de Gymnasio\\Gestion de Gym\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{98B73FE5-9508-49A9-AD34-1114E831CAFE}|Gestion de Gym\\Gestion de Gym.csproj|c:\\users\\emili\\onedrive\\documentos\\proyectos\\c#\\gestion de gymnasio\\gestion de gym\\gestion de gym\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98B73FE5-9508-49A9-AD34-1114E831CAFE}|Gestion de Gym\\Gestion de Gym.csproj|solutionrelative:gestion de gym\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{98B73FE5-9508-49A9-AD34-1114E831CAFE}|Gestion de Gym\\Gestion de Gym.csproj|c:\\users\\emili\\onedrive\\documentos\\proyectos\\c#\\gestion de gymnasio\\gestion de gym\\gestion de gym\\clases\\clsagregarpago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98B73FE5-9508-49A9-AD34-1114E831CAFE}|Gestion de Gym\\Gestion de Gym.csproj|solutionrelative:gestion de gym\\clases\\clsagregarpago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{98B73FE5-9508-49A9-AD34-1114E831CAFE}|Gestion de Gym\\Gestion de Gym.csproj|c:\\users\\emili\\onedrive\\documentos\\proyectos\\c#\\gestion de gymnasio\\gestion de gym\\gestion de gym\\forms\\adduserform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{98B73FE5-9508-49A9-AD34-1114E831CAFE}|Gestion de Gym\\Gestion de Gym.csproj|solutionrelative:gestion de gym\\forms\\adduserform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{98B73FE5-9508-49A9-AD34-1114E831CAFE}|Gestion de Gym\\Gestion de Gym.csproj|c:\\users\\emili\\onedrive\\documentos\\proyectos\\c#\\gestion de gymnasio\\gestion de gym\\gestion de gym\\clases\\clsagregarusasrio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98B73FE5-9508-49A9-AD34-1114E831CAFE}|Gestion de Gym\\Gestion de Gym.csproj|solutionrelative:gestion de gym\\clases\\clsagregarusasrio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{98B73FE5-9508-49A9-AD34-1114E831CAFE}|Gestion de Gym\\Gestion de Gym.csproj|c:\\users\\emili\\onedrive\\documentos\\proyectos\\c#\\gestion de gymnasio\\gestion de gym\\gestion de gym\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{98B73FE5-9508-49A9-AD34-1114E831CAFE}|Gestion de Gym\\Gestion de Gym.csproj|solutionrelative:gestion de gym\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{98B73FE5-9508-49A9-AD34-1114E831CAFE}|Gestion de Gym\\Gestion de Gym.csproj|c:\\users\\emili\\onedrive\\documentos\\proyectos\\c#\\gestion de gymnasio\\gestion de gym\\gestion de gym\\forms\\viewmemberform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98B73FE5-9508-49A9-AD34-1114E831CAFE}|Gestion de Gym\\Gestion de Gym.csproj|solutionrelative:gestion de gym\\forms\\viewmemberform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{98B73FE5-9508-49A9-AD34-1114E831CAFE}|Gestion de Gym\\Gestion de Gym.csproj|c:\\users\\emili\\onedrive\\documentos\\proyectos\\c#\\gestion de gymnasio\\gestion de gym\\gestion de gym\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{98B73FE5-9508-49A9-AD34-1114E831CAFE}|Gestion de Gym\\Gestion de Gym.csproj|solutionrelative:gestion de gym\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{98B73FE5-9508-49A9-AD34-1114E831CAFE}|Gestion de Gym\\Gestion de Gym.csproj|c:\\users\\emili\\onedrive\\documentos\\proyectos\\c#\\gestion de gymnasio\\gestion de gym\\gestion de gym\\forms\\viewmemberform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98B73FE5-9508-49A9-AD34-1114E831CAFE}|Gestion de Gym\\Gestion de Gym.csproj|solutionrelative:gestion de gym\\forms\\viewmemberform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{98B73FE5-9508-49A9-AD34-1114E831CAFE}|Gestion de Gym\\Gestion de Gym.csproj|c:\\users\\emili\\onedrive\\documentos\\proyectos\\c#\\gestion de gymnasio\\gestion de gym\\gestion de gym\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98B73FE5-9508-49A9-AD34-1114E831CAFE}|Gestion de Gym\\Gestion de Gym.csproj|solutionrelative:gestion de gym\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98B73FE5-9508-49A9-AD34-1114E831CAFE}|Gestion de Gym\\Gestion de Gym.csproj|c:\\users\\emili\\onedrive\\documentos\\proyectos\\c#\\gestion de gymnasio\\gestion de gym\\gestion de gym\\forms\\adduserform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98B73FE5-9508-49A9-AD34-1114E831CAFE}|Gestion de Gym\\Gestion de Gym.csproj|solutionrelative:gestion de gym\\forms\\adduserform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{98B73FE5-9508-49A9-AD34-1114E831CAFE}|Gestion de Gym\\Gestion de Gym.csproj|C:\\Users\\emili\\OneDrive\\Documentos\\Proyectos\\C#\\Gestion de Gymnasio\\Gestion de Gym\\gestion de gym\\clases\\clsagregarmiembro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98B73FE5-9508-49A9-AD34-1114E831CAFE}|Gestion de Gym\\Gestion de Gym.csproj|solutionrelative:gestion de gym\\clases\\clsagregarmiembro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,82 +30,113 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "adduserForm.cs",
-              "DocumentMoniker": "C:\\Users\\emili\\OneDrive\\Documentos\\Proyectos\\C#\\Gestion de Gymnasio\\Gestion de Gym\\Gestion de Gym\\Forms\\adduserForm.cs",
-              "RelativeDocumentMoniker": "Gestion de Gym\\Forms\\adduserForm.cs",
-              "ToolTip": "C:\\Users\\emili\\OneDrive\\Documentos\\Proyectos\\C#\\Gestion de Gymnasio\\Gestion de Gym\\Gestion de Gym\\Forms\\adduserForm.cs",
-              "RelativeToolTip": "Gestion de Gym\\Forms\\adduserForm.cs",
-              "ViewState": "AgIAAHgAAAAAAAAAAAAqwIMAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T04:31:11.564Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "adduserForm.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\emili\\OneDrive\\Documentos\\Proyectos\\C#\\Gestion de Gymnasio\\Gestion de Gym\\Gestion de Gym\\Forms\\adduserForm.cs",
-              "RelativeDocumentMoniker": "Gestion de Gym\\Forms\\adduserForm.cs",
-              "ToolTip": "C:\\Users\\emili\\OneDrive\\Documentos\\Proyectos\\C#\\Gestion de Gymnasio\\Gestion de Gym\\Gestion de Gym\\Forms\\adduserForm.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Gestion de Gym\\Forms\\adduserForm.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T04:31:09.726Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "mainForm.cs",
-              "DocumentMoniker": "C:\\Users\\emili\\OneDrive\\Documentos\\Proyectos\\C#\\Gestion de Gymnasio\\Gestion de Gym\\Gestion de Gym\\Forms\\mainForm.cs",
-              "RelativeDocumentMoniker": "Gestion de Gym\\Forms\\mainForm.cs",
-              "ToolTip": "C:\\Users\\emili\\OneDrive\\Documentos\\Proyectos\\C#\\Gestion de Gymnasio\\Gestion de Gym\\Gestion de Gym\\Forms\\mainForm.cs*",
-              "RelativeToolTip": "Gestion de Gym\\Forms\\mainForm.cs*",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAYwCEAAAAhAAAAAAAAAA==",
+              "Title": "clsAgregarPago.cs",
+              "DocumentMoniker": "C:\\Users\\emili\\OneDrive\\Documentos\\Proyectos\\C#\\Gestion de Gymnasio\\Gestion de Gym\\Gestion de Gym\\Clases\\clsAgregarPago.cs",
+              "RelativeDocumentMoniker": "Gestion de Gym\\Clases\\clsAgregarPago.cs",
+              "ToolTip": "C:\\Users\\emili\\OneDrive\\Documentos\\Proyectos\\C#\\Gestion de Gymnasio\\Gestion de Gym\\Gestion de Gym\\Clases\\clsAgregarPago.cs*",
+              "RelativeToolTip": "Gestion de Gym\\Clases\\clsAgregarPago.cs*",
+              "ViewState": "AgIAAO0AAAAAAAAAAAAQwPgAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T04:27:36.221Z",
+              "WhenOpened": "2025-05-22T22:06:22.045Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "c5a87a44-597c-47bf-bb3f-a1d3c86fdd83",
+        "Display": 0,
+        "X": -368,
+        "Y": 95,
+        "Width": 1553,
+        "Height": 784,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "viewMemberForm.cs",
+              "DocumentMoniker": "C:\\Users\\emili\\OneDrive\\Documentos\\Proyectos\\C#\\Gestion de Gymnasio\\Gestion de Gym\\Gestion de Gym\\Forms\\viewMemberForm.cs",
+              "RelativeDocumentMoniker": "Gestion de Gym\\Forms\\viewMemberForm.cs",
+              "ToolTip": "C:\\Users\\emili\\OneDrive\\Documentos\\Proyectos\\C#\\Gestion de Gymnasio\\Gestion de Gym\\Gestion de Gym\\Forms\\viewMemberForm.cs",
+              "RelativeToolTip": "Gestion de Gym\\Forms\\viewMemberForm.cs",
+              "ViewState": "AgIAAJ0AAAAAAAAAAAAcwKsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T22:08:11.875Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "loginForm.cs",
-              "DocumentMoniker": "C:\\Users\\emili\\OneDrive\\Documentos\\Proyectos\\C#\\Gestion de Gymnasio\\Gestion de Gym\\Gestion de Gym\\Forms\\loginForm.cs",
-              "RelativeDocumentMoniker": "Gestion de Gym\\Forms\\loginForm.cs",
-              "ToolTip": "C:\\Users\\emili\\OneDrive\\Documentos\\Proyectos\\C#\\Gestion de Gymnasio\\Gestion de Gym\\Gestion de Gym\\Forms\\loginForm.cs",
-              "RelativeToolTip": "Gestion de Gym\\Forms\\loginForm.cs",
-              "ViewState": "AgIAAEsAAAAAAAAAAAAcwCUAAAAMAAAAAAAAAA==",
+              "Title": "clsAgregarMiembro.cs",
+              "DocumentMoniker": "C:\\Users\\emili\\OneDrive\\Documentos\\Proyectos\\C#\\Gestion de Gymnasio\\Gestion de Gym\\Gestion de Gym\\Clases\\clsAgregarMiembro.cs",
+              "RelativeDocumentMoniker": "Gestion de Gym\\Clases\\clsAgregarMiembro.cs",
+              "ToolTip": "C:\\Users\\emili\\OneDrive\\Documentos\\Proyectos\\C#\\Gestion de Gymnasio\\Gestion de Gym\\Gestion de Gym\\Clases\\clsAgregarMiembro.cs",
+              "RelativeToolTip": "Gestion de Gym\\Clases\\clsAgregarMiembro.cs",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAcwJkAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T04:27:27.707Z",
+              "WhenOpened": "2025-05-22T02:18:40.961Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "mainForm.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\emili\\OneDrive\\Documentos\\Proyectos\\C#\\Gestion de Gymnasio\\Gestion de Gym\\Gestion de Gym\\Forms\\mainForm.cs",
-              "RelativeDocumentMoniker": "Gestion de Gym\\Forms\\mainForm.cs",
-              "ToolTip": "C:\\Users\\emili\\OneDrive\\Documentos\\Proyectos\\C#\\Gestion de Gymnasio\\Gestion de Gym\\Gestion de Gym\\Forms\\mainForm.cs [Dise\u00F1o]*",
-              "RelativeToolTip": "Gestion de Gym\\Forms\\mainForm.cs [Dise\u00F1o]*",
+              "DocumentIndex": 3,
+              "Title": "viewMemberForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\emili\\OneDrive\\Documentos\\Proyectos\\C#\\Gestion de Gymnasio\\Gestion de Gym\\Gestion de Gym\\Forms\\viewMemberForm.cs",
+              "RelativeDocumentMoniker": "Gestion de Gym\\Forms\\viewMemberForm.cs",
+              "ToolTip": "C:\\Users\\emili\\OneDrive\\Documentos\\Proyectos\\C#\\Gestion de Gymnasio\\Gestion de Gym\\Gestion de Gym\\Forms\\viewMemberForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Gestion de Gym\\Forms\\viewMemberForm.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T04:27:31.851Z",
+              "WhenOpened": "2025-05-22T22:03:30.704Z",
               "EditorCaption": " [Dise\u00F1o]"
-            },
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "34683122-64f9-46cf-b887-d92c402f6c06",
+        "Display": 0,
+        "X": -178,
+        "Y": 100,
+        "Width": 1528,
+        "Height": 784,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "loginForm.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\emili\\OneDrive\\Documentos\\Proyectos\\C#\\Gestion de Gymnasio\\Gestion de Gym\\Gestion de Gym\\Forms\\loginForm.cs",
-              "RelativeDocumentMoniker": "Gestion de Gym\\Forms\\loginForm.cs",
-              "ToolTip": "C:\\Users\\emili\\OneDrive\\Documentos\\Proyectos\\C#\\Gestion de Gymnasio\\Gestion de Gym\\Gestion de Gym\\Forms\\loginForm.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Gestion de Gym\\Forms\\loginForm.cs [Dise\u00F1o]",
+              "DocumentIndex": 1,
+              "Title": "clsAgregarUsasrio.cs",
+              "DocumentMoniker": "C:\\Users\\emili\\OneDrive\\Documentos\\Proyectos\\C#\\Gestion de Gymnasio\\Gestion de Gym\\Gestion de Gym\\Clases\\clsAgregarUsasrio.cs",
+              "RelativeDocumentMoniker": "Gestion de Gym\\Clases\\clsAgregarUsasrio.cs",
+              "ToolTip": "C:\\Users\\emili\\OneDrive\\Documentos\\Proyectos\\C#\\Gestion de Gymnasio\\Gestion de Gym\\Gestion de Gym\\Clases\\clsAgregarUsasrio.cs",
+              "RelativeToolTip": "Gestion de Gym\\Clases\\clsAgregarUsasrio.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAIwGoAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T04:27:25.614Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-05-22T22:37:53.093Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -19,17 +19,21 @@ namespace Gestion_de_Gym.Forms
     {
         private  int index = 0;
         private string idtemporal;
+        private bool editarUser = false;
+        private int selectedRowIndex = -1;
+
 
         public adduserForm()
         {
             InitializeComponent();
-            consecutivo();
-            
+            //consecutivo();
         }
 
         //El siguiente codigo muestra datos en la tabla
         private void adduserForm_Load(object sender, EventArgs e)
         {
+            button4.Enabled = false;
+
             clsAgregarUsasrio clsAgregar = new clsAgregarUsasrio();
 
             // Llama al método obtener para obtener los datos de la base de datos
@@ -60,8 +64,34 @@ namespace Gestion_de_Gym.Forms
         {
             try
             {
-                index = e.RowIndex;
+                if (e.RowIndex >= 0)
+                {
+                    button4.Enabled = true;  // Habilita el botón cuando se selecciona una fila
+                    index = e.RowIndex;
+                }
+                else
+                {
+                    button4.Enabled = false; // Deshabilita si no hay selección válida
+                }
 
+                if (e.RowIndex < 0)
+                    return;
+
+                // Restaurar color anterior si hay alguno
+                if (selectedRowIndex >= 0 && selectedRowIndex < guna2DataGridView1.Rows.Count)
+                {
+                    guna2DataGridView1.Rows[selectedRowIndex].DefaultCellStyle.BackColor = Color.White;
+                    guna2DataGridView1.Rows[selectedRowIndex].DefaultCellStyle.ForeColor = Color.Black;
+                }
+
+                // Guardar nueva fila seleccionada
+                selectedRowIndex = e.RowIndex;
+
+                // Cambiar color de toda la fila
+                guna2DataGridView1.Rows[selectedRowIndex].DefaultCellStyle.BackColor = Color.FromArgb(255, 128, 128);
+                guna2DataGridView1.Rows[selectedRowIndex].DefaultCellStyle.ForeColor = Color.White;
+
+                index = selectedRowIndex;
             }
             catch (Exception ex)
             {
@@ -71,37 +101,37 @@ namespace Gestion_de_Gym.Forms
 
         
         //es el consecutivo que agarra el ultimo id y lo umenta 1
-        private void consecutivo()
-        {
-            //int proximoId = 0; // Variable para almacenar el próximo ID consecutivo
-            SqlConnection con = new SqlConnection(clsConexion.conectar());
-            SqlCommand cmd = new SqlCommand("", con);
-            SqlDataReader dr;
+        //private void consecutivo()
+        //{
+        //    //int proximoId = 0; // Variable para almacenar el próximo ID consecutivo
+        //    SqlConnection con = new SqlConnection(clsConexion.conectar());
+        //    SqlCommand cmd = new SqlCommand("", con);
+        //    SqlDataReader dr;
 
-            cmd.CommandType = CommandType.Text;
-            cmd.CommandText = "SELECT ISNULL(MAX(UsId), 0) + 1 as consec FROM UserTbl";
+        //    cmd.CommandType = CommandType.Text;
+        //    cmd.CommandText = "SELECT ISNULL(MAX(UsId), 0) + 1 as consec FROM UserTbl";
 
-            try
-            {
-                con.Open();
-                dr = cmd.ExecuteReader();
+        //    try
+        //    {
+        //        con.Open();
+        //        dr = cmd.ExecuteReader();
 
-                if (dr.Read()) // Verificar si hay filas devueltas por la consulta
-                {
-                    idtemporal = Convert.ToString(dr["consec"]); // Obtener el próximo ID consecutivo
-                }
-            }
-            catch (Exception ex)
-            {
-                MessageBox.Show($"Error al obtener el próximo ID consecutivo: {ex.Message}");
-            }
-            finally
-            {
-                con.Close();
-            }
+        //        if (dr.Read()) // Verificar si hay filas devueltas por la consulta
+        //        {
+        //            idtemporal = Convert.ToString(dr["consec"]); // Obtener el próximo ID consecutivo
+        //        }
+        //    }
+        //    catch (Exception ex)
+        //    {
+        //        MessageBox.Show($"Error al obtener el próximo ID consecutivo: {ex.Message}");
+        //    }
+        //    finally
+        //    {
+        //        con.Close();
+        //    }
 
-           // return proximoId; // Devolver el próximo ID consecutivo obtenido de la consulta
-        }
+        //   // return proximoId; // Devolver el próximo ID consecutivo obtenido de la consulta
+        //}
 
         private bool UsuarioExiste(string nombreUsuario, string contraseña)
         {
@@ -157,10 +187,23 @@ namespace Gestion_de_Gym.Forms
 
         private void btnEditar(object sender, EventArgs e)
         {
-            idtemporal = guna2DataGridView1.Rows[index].Cells["UsId"].Value?.ToString();
-            // Asignar los valores de las celdas de la fila seleccionada a los campos de texto
-            txtNombre.Text = guna2DataGridView1.Rows[index].Cells["UsName"].Value?.ToString();
-            cmbRango.Text = guna2DataGridView1.Rows[index].Cells["UsRange"].Value?.ToString();
+            try
+            {
+                idtemporal = guna2DataGridView1.Rows[index].Cells["UsId"].Value?.ToString();
+                // Asignar los valores de las celdas de la fila seleccionada a los campos de texto
+                txtNombre.Text = guna2DataGridView1.Rows[index].Cells["UsName"].Value?.ToString();
+                cmbRango.Text = guna2DataGridView1.Rows[index].Cells["UsRange"].Value?.ToString();
+
+                editarUser = true;
+
+                //MessageBox.Show("Sus dato es:" + editarUser);
+
+            }
+            catch(Exception ex )
+            {
+                Console.WriteLine($"Error al obtener los datos: {ex.Message}");
+            }
+  
         }
 
         private void vtnEliminar(object sender, EventArgs e)
@@ -179,7 +222,11 @@ namespace Gestion_de_Gym.Forms
         {
             clsAgregarUsasrio clsAgregar = new clsAgregarUsasrio();
 
-            clsAgregar.iUsId = int.Parse(idtemporal);
+            if (editarUser)
+            {
+                clsAgregar.iUsId = int.Parse(idtemporal); // Solo se asigna el ID si estamos editando
+            }
+
             clsAgregar.sUsName = txtNombre.Text.ToString();
             clsAgregar.sUsPassword = clsEncrypt.GetSHA256(txtContraseña.Text);
             clsAgregar.sUsRange = cmbRango.Text;
@@ -191,18 +238,23 @@ namespace Gestion_de_Gym.Forms
             else
             {
                 // Verificar si el usuario ya existe antes de guardar
-                if (UsuarioExiste(clsAgregar.sUsName, clsAgregar.sUsPassword))
+                if(editarUser == false)
                 {
-                    MessageBox.Show("El usuario ya existe.");
-                    return; // Detener la ejecución si el usuario ya existe
+                    if (UsuarioExiste(clsAgregar.sUsName, clsAgregar.sUsPassword))
+                    {
+                        MessageBox.Show("El usuario ya existe.");
+                        return; // Detener la ejecución si el usuario ya existe
+                    }
                 }
 
                 if (clsAgregar.Guardar() == true)
                 {
                     MessageBox.Show("Sus datos se a Guardado correctamente");
                     limpiar();
-                    consecutivo();
+                    //consecutivo();
                     adduserForm_Load(null, null); // Vuelve a cargar los datos del DataGridView
+
+                    editarUser = false;
                 }
                 else
                 {
@@ -221,8 +273,10 @@ namespace Gestion_de_Gym.Forms
             {
                 MessageBox.Show("Sus datos se eliminaron correctamente");
                 limpiar();
-                consecutivo();
+                //consecutivo();
                 adduserForm_Load(null, null); // Vuelve a cargar los datos del DataGridView
+
+                editarUser = false;
             }
             else
             {
@@ -235,10 +289,10 @@ namespace Gestion_de_Gym.Forms
             txtNombre.Clear();
             txtContraseña.Clear();
             txtConfirmarContraseña.Clear() ;
+            cmbRango.SelectedIndex = -1;
+
         }
 
-
-
-       
+        
     }
 }

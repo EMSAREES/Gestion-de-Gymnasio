@@ -10,6 +10,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Data.SqlClient;
 using Gestion_de_Gym.Clases;
+using System.Runtime.CompilerServices;
 
 namespace Gestion_de_Gym.Forms
 {
@@ -22,6 +23,7 @@ namespace Gestion_de_Gym.Forms
         }
         public static class UsuarioLogueado
         {
+            public static int IdUsuario { get; set; }
             public static string NombreUsuario { get; set; }
             public static string RangoUsuario { get; set; }
         }
@@ -30,7 +32,8 @@ namespace Gestion_de_Gym.Forms
 
         private void button2_Click(object sender, EventArgs e)
         {
-            this.Close();
+            //this.Close();
+            Application.Exit();
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -54,14 +57,15 @@ namespace Gestion_de_Gym.Forms
                     UsuarioLogueado.NombreUsuario = txtUsuario.Text;
 
                     // Obtener el rango del usuario desde la base de datos
-                    string rangoUsuario = ObtenerRangoUsuario(txtUsuario.Text);
-                    if (!string.IsNullOrEmpty(rangoUsuario))
+                    (string rangoUsuario, int idUsuario) = log.ObtenerDatoUsuario(txtUsuario.Text);
+                    if (!string.IsNullOrEmpty(rangoUsuario) && idUsuario > 0)
                     {
                         UsuarioLogueado.RangoUsuario = rangoUsuario; // Asignar el rango
+                        UsuarioLogueado.IdUsuario = idUsuario;
                     }
                     else
                     {
-                        MessageBox.Show("No se pudo obtener el rango del usuario.");
+                        MessageBox.Show("No se pudo obtener el rango o Id del usuario.");
                         return;
                     }
 
@@ -81,35 +85,35 @@ namespace Gestion_de_Gym.Forms
         }
 
 
-        // Método para obtener el rango del usuario desde la base de datos
-        private string ObtenerRangoUsuario(string usuario)
-        {
-            string rango = string.Empty;
-            SqlConnection con = new SqlConnection(clsConexion.conectar());
-            SqlCommand cmd = new SqlCommand("SELECT UsRange FROM UserTbl WHERE UsName = @UsName", con);
-            cmd.Parameters.AddWithValue("@UsName", usuario);
+        //// Método para obtener el rango del usuario desde la base de datos
+        //private string ObtenerRangoUsuario(string usuario)
+        //{
+        //    string rango = string.Empty;
+        //    SqlConnection con = new SqlConnection(clsConexion.conectar());
+        //    SqlCommand cmd = new SqlCommand("SELECT UsRange FROM UserTbl WHERE UsName = @UsName", con);
+        //    cmd.Parameters.AddWithValue("@UsName", usuario);
 
-            try
-            {
-                con.Open();
-                SqlDataReader reader = cmd.ExecuteReader();
+        //    try
+        //    {
+        //        con.Open();
+        //        SqlDataReader reader = cmd.ExecuteReader();
 
-                if (reader.Read())
-                {
-                    rango = reader["UsRange"].ToString(); // Obtener el rango
-                }
-            }
-            catch (Exception ex)
-            {
-                MessageBox.Show($"Error al obtener el rango del usuario: {ex.Message}");
-            }
-            finally
-            {
-                con.Close();
-            }
+        //        if (reader.Read())
+        //        {
+        //            rango = reader["UsRange"].ToString(); // Obtener el rango
+        //        }
+        //    }
+        //    catch (Exception ex)
+        //    {
+        //        MessageBox.Show($"Error al obtener el rango del usuario: {ex.Message}");
+        //    }
+        //    finally
+        //    {
+        //        con.Close();
+        //    }
 
-            return rango;
-        }
+        //    return rango;
+        //}
 
     }
 

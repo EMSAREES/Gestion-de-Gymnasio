@@ -33,21 +33,17 @@
             this.label3 = new System.Windows.Forms.Label();
             this.guna2ContextMenuStrip1 = new Guna.UI2.WinForms.Guna2ContextMenuStrip();
             this.label4 = new System.Windows.Forms.Label();
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.textBox2 = new System.Windows.Forms.TextBox();
+            this.txtName = new System.Windows.Forms.TextBox();
+            this.txtPhone = new System.Windows.Forms.TextBox();
             this.label5 = new System.Windows.Forms.Label();
-            this.textBox3 = new System.Windows.Forms.TextBox();
+            this.txtYear = new System.Windows.Forms.TextBox();
             this.label6 = new System.Windows.Forms.Label();
             this.label7 = new System.Windows.Forms.Label();
-            this.comboBox1 = new System.Windows.Forms.ComboBox();
-            this.textBox4 = new System.Windows.Forms.TextBox();
-            this.label8 = new System.Windows.Forms.Label();
-            this.comboBox2 = new System.Windows.Forms.ComboBox();
-            this.label9 = new System.Windows.Forms.Label();
+            this.cbGender = new System.Windows.Forms.ComboBox();
             this.btnAdd = new System.Windows.Forms.Button();
-            this.btnReset = new System.Windows.Forms.Button();
+            this.btnDeleter = new System.Windows.Forms.Button();
             this.btnBack = new System.Windows.Forms.Button();
-            this.bntbackLogin = new System.Windows.Forms.Button();
+            this.btnSearch = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
@@ -82,6 +78,7 @@
             this.label3.Size = new System.Drawing.Size(39, 38);
             this.label3.TabIndex = 12;
             this.label3.Text = "X";
+            this.label3.Click += new System.EventHandler(this.label3_Click);
             // 
             // guna2ContextMenuStrip1
             // 
@@ -102,53 +99,53 @@
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label4.ForeColor = System.Drawing.Color.DarkBlue;
-            this.label4.Location = new System.Drawing.Point(29, 96);
+            this.label4.Location = new System.Drawing.Point(87, 94);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(73, 21);
             this.label4.TabIndex = 13;
             this.label4.Text = "Nombre";
             // 
-            // textBox1
+            // txtName
             // 
-            this.textBox1.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox1.Location = new System.Drawing.Point(33, 120);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(130, 27);
-            this.textBox1.TabIndex = 14;
+            this.txtName.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtName.Location = new System.Drawing.Point(91, 118);
+            this.txtName.Name = "txtName";
+            this.txtName.Size = new System.Drawing.Size(130, 27);
+            this.txtName.TabIndex = 14;
             // 
-            // textBox2
+            // txtPhone
             // 
-            this.textBox2.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox2.Location = new System.Drawing.Point(201, 120);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(201, 27);
-            this.textBox2.TabIndex = 16;
+            this.txtPhone.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtPhone.Location = new System.Drawing.Point(332, 122);
+            this.txtPhone.Name = "txtPhone";
+            this.txtPhone.Size = new System.Drawing.Size(201, 27);
+            this.txtPhone.TabIndex = 16;
             // 
             // label5
             // 
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label5.ForeColor = System.Drawing.Color.DarkBlue;
-            this.label5.Location = new System.Drawing.Point(197, 96);
+            this.label5.Location = new System.Drawing.Point(328, 98);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(166, 21);
             this.label5.TabIndex = 15;
             this.label5.Text = "Numero de telefono";
             // 
-            // textBox3
+            // txtYear
             // 
-            this.textBox3.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox3.Location = new System.Drawing.Point(435, 120);
-            this.textBox3.Name = "textBox3";
-            this.textBox3.Size = new System.Drawing.Size(130, 27);
-            this.textBox3.TabIndex = 18;
+            this.txtYear.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtYear.Location = new System.Drawing.Point(91, 213);
+            this.txtYear.Name = "txtYear";
+            this.txtYear.Size = new System.Drawing.Size(130, 27);
+            this.txtYear.TabIndex = 18;
             // 
             // label6
             // 
             this.label6.AutoSize = true;
             this.label6.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label6.ForeColor = System.Drawing.Color.DarkBlue;
-            this.label6.Location = new System.Drawing.Point(431, 96);
+            this.label6.Location = new System.Drawing.Point(87, 189);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(52, 21);
             this.label6.TabIndex = 17;
@@ -159,70 +156,25 @@
             this.label7.AutoSize = true;
             this.label7.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label7.ForeColor = System.Drawing.Color.DarkBlue;
-            this.label7.Location = new System.Drawing.Point(29, 178);
+            this.label7.Location = new System.Drawing.Point(328, 188);
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(69, 21);
             this.label7.TabIndex = 19;
             this.label7.Text = "Genero";
             // 
-            // comboBox1
+            // cbGender
             // 
-            this.comboBox1.Font = new System.Drawing.Font("Century Gothic", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.comboBox1.FormattingEnabled = true;
-            this.comboBox1.Items.AddRange(new object[] {
+            this.cbGender.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.cbGender.Font = new System.Drawing.Font("Century Gothic", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.cbGender.FormattingEnabled = true;
+            this.cbGender.Items.AddRange(new object[] {
             "Masculino",
-            "Femenino"});
-            this.comboBox1.Location = new System.Drawing.Point(33, 202);
-            this.comboBox1.Name = "comboBox1";
-            this.comboBox1.Size = new System.Drawing.Size(130, 30);
-            this.comboBox1.TabIndex = 20;
-            // 
-            // textBox4
-            // 
-            this.textBox4.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox4.Location = new System.Drawing.Point(201, 202);
-            this.textBox4.Name = "textBox4";
-            this.textBox4.Size = new System.Drawing.Size(201, 27);
-            this.textBox4.TabIndex = 22;
-            // 
-            // label8
-            // 
-            this.label8.AutoSize = true;
-            this.label8.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label8.ForeColor = System.Drawing.Color.DarkBlue;
-            this.label8.Location = new System.Drawing.Point(197, 178);
-            this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(156, 21);
-            this.label8.TabIndex = 21;
-            this.label8.Text = "Cantidad Mensual";
-            // 
-            // comboBox2
-            // 
-            this.comboBox2.Font = new System.Drawing.Font("Century Gothic", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.comboBox2.FormattingEnabled = true;
-            this.comboBox2.Items.AddRange(new object[] {
-            "6Am-8Am",
-            "8Am-10Am",
-            "10Am-12Am",
-            "12Am-2Pm",
-            "2Pm-4Pm",
-            "4Pm-6Pm",
-            "6Pm-8Pm"});
-            this.comboBox2.Location = new System.Drawing.Point(435, 202);
-            this.comboBox2.Name = "comboBox2";
-            this.comboBox2.Size = new System.Drawing.Size(130, 30);
-            this.comboBox2.TabIndex = 24;
-            // 
-            // label9
-            // 
-            this.label9.AutoSize = true;
-            this.label9.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label9.ForeColor = System.Drawing.Color.DarkBlue;
-            this.label9.Location = new System.Drawing.Point(431, 178);
-            this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(53, 21);
-            this.label9.TabIndex = 23;
-            this.label9.Text = "Horas";
+            "Femenino",
+            "Binario"});
+            this.cbGender.Location = new System.Drawing.Point(332, 212);
+            this.cbGender.Name = "cbGender";
+            this.cbGender.Size = new System.Drawing.Size(130, 30);
+            this.cbGender.TabIndex = 20;
             // 
             // btnAdd
             // 
@@ -234,29 +186,31 @@
             this.btnAdd.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnAdd.Font = new System.Drawing.Font("Century Gothic", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnAdd.ForeColor = System.Drawing.Color.White;
-            this.btnAdd.Location = new System.Drawing.Point(128, 257);
+            this.btnAdd.Location = new System.Drawing.Point(59, 282);
             this.btnAdd.Name = "btnAdd";
             this.btnAdd.Size = new System.Drawing.Size(103, 33);
             this.btnAdd.TabIndex = 25;
             this.btnAdd.Text = "Agregar";
             this.btnAdd.UseVisualStyleBackColor = false;
+            this.btnAdd.Click += new System.EventHandler(this.btnAdd_Click);
             // 
-            // btnReset
+            // btnDeleter
             // 
-            this.btnReset.BackColor = System.Drawing.Color.Crimson;
-            this.btnReset.FlatAppearance.BorderColor = System.Drawing.Color.White;
-            this.btnReset.FlatAppearance.BorderSize = 0;
-            this.btnReset.FlatAppearance.MouseDownBackColor = System.Drawing.Color.White;
-            this.btnReset.FlatAppearance.MouseOverBackColor = System.Drawing.Color.White;
-            this.btnReset.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnReset.Font = new System.Drawing.Font("Century Gothic", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnReset.ForeColor = System.Drawing.Color.White;
-            this.btnReset.Location = new System.Drawing.Point(250, 257);
-            this.btnReset.Name = "btnReset";
-            this.btnReset.Size = new System.Drawing.Size(103, 33);
-            this.btnReset.TabIndex = 26;
-            this.btnReset.Text = "Reiniciar";
-            this.btnReset.UseVisualStyleBackColor = false;
+            this.btnDeleter.BackColor = System.Drawing.Color.Crimson;
+            this.btnDeleter.FlatAppearance.BorderColor = System.Drawing.Color.White;
+            this.btnDeleter.FlatAppearance.BorderSize = 0;
+            this.btnDeleter.FlatAppearance.MouseDownBackColor = System.Drawing.Color.White;
+            this.btnDeleter.FlatAppearance.MouseOverBackColor = System.Drawing.Color.White;
+            this.btnDeleter.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnDeleter.Font = new System.Drawing.Font("Century Gothic", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnDeleter.ForeColor = System.Drawing.Color.White;
+            this.btnDeleter.Location = new System.Drawing.Point(181, 282);
+            this.btnDeleter.Name = "btnDeleter";
+            this.btnDeleter.Size = new System.Drawing.Size(103, 33);
+            this.btnDeleter.TabIndex = 26;
+            this.btnDeleter.Text = "Eliminar";
+            this.btnDeleter.UseVisualStyleBackColor = false;
+            this.btnDeleter.Click += new System.EventHandler(this.btnDeleter_Click);
             // 
             // btnBack
             // 
@@ -268,29 +222,31 @@
             this.btnBack.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnBack.Font = new System.Drawing.Font("Century Gothic", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnBack.ForeColor = System.Drawing.Color.White;
-            this.btnBack.Location = new System.Drawing.Point(371, 257);
+            this.btnBack.Location = new System.Drawing.Point(414, 282);
             this.btnBack.Name = "btnBack";
             this.btnBack.Size = new System.Drawing.Size(103, 33);
             this.btnBack.TabIndex = 27;
             this.btnBack.Text = "Atras";
             this.btnBack.UseVisualStyleBackColor = false;
+            this.btnBack.Click += new System.EventHandler(this.btnBack_Click);
             // 
-            // bntbackLogin
+            // btnSearch
             // 
-            this.bntbackLogin.BackColor = System.Drawing.Color.Crimson;
-            this.bntbackLogin.FlatAppearance.BorderColor = System.Drawing.Color.White;
-            this.bntbackLogin.FlatAppearance.BorderSize = 0;
-            this.bntbackLogin.FlatAppearance.MouseDownBackColor = System.Drawing.Color.White;
-            this.bntbackLogin.FlatAppearance.MouseOverBackColor = System.Drawing.Color.White;
-            this.bntbackLogin.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.bntbackLogin.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.bntbackLogin.ForeColor = System.Drawing.Color.White;
-            this.bntbackLogin.Location = new System.Drawing.Point(250, 305);
-            this.bntbackLogin.Name = "bntbackLogin";
-            this.bntbackLogin.Size = new System.Drawing.Size(103, 21);
-            this.bntbackLogin.TabIndex = 28;
-            this.bntbackLogin.Text = "Atras";
-            this.bntbackLogin.UseVisualStyleBackColor = false;
+            this.btnSearch.BackColor = System.Drawing.Color.Crimson;
+            this.btnSearch.FlatAppearance.BorderColor = System.Drawing.Color.White;
+            this.btnSearch.FlatAppearance.BorderSize = 0;
+            this.btnSearch.FlatAppearance.MouseDownBackColor = System.Drawing.Color.White;
+            this.btnSearch.FlatAppearance.MouseOverBackColor = System.Drawing.Color.White;
+            this.btnSearch.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnSearch.Font = new System.Drawing.Font("Century Gothic", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnSearch.ForeColor = System.Drawing.Color.White;
+            this.btnSearch.Location = new System.Drawing.Point(301, 282);
+            this.btnSearch.Name = "btnSearch";
+            this.btnSearch.Size = new System.Drawing.Size(103, 33);
+            this.btnSearch.TabIndex = 28;
+            this.btnSearch.Text = "Buscar";
+            this.btnSearch.UseVisualStyleBackColor = false;
+            this.btnSearch.Click += new System.EventHandler(this.btnSearch_Click);
             // 
             // addmemberForm
             // 
@@ -298,21 +254,17 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
             this.ClientSize = new System.Drawing.Size(594, 346);
-            this.Controls.Add(this.bntbackLogin);
+            this.Controls.Add(this.btnSearch);
             this.Controls.Add(this.btnBack);
-            this.Controls.Add(this.btnReset);
+            this.Controls.Add(this.btnDeleter);
             this.Controls.Add(this.btnAdd);
-            this.Controls.Add(this.comboBox2);
-            this.Controls.Add(this.label9);
-            this.Controls.Add(this.textBox4);
-            this.Controls.Add(this.label8);
-            this.Controls.Add(this.comboBox1);
+            this.Controls.Add(this.cbGender);
             this.Controls.Add(this.label7);
-            this.Controls.Add(this.textBox3);
+            this.Controls.Add(this.txtYear);
             this.Controls.Add(this.label6);
-            this.Controls.Add(this.textBox2);
+            this.Controls.Add(this.txtPhone);
             this.Controls.Add(this.label5);
-            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.txtName);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
@@ -321,6 +273,7 @@
             this.Name = "addmemberForm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "addmemberForm";
+            this.Load += new System.EventHandler(this.addmemberForm_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -333,20 +286,16 @@
         private System.Windows.Forms.Label label3;
         private Guna.UI2.WinForms.Guna2ContextMenuStrip guna2ContextMenuStrip1;
         private System.Windows.Forms.Label label4;
-        private System.Windows.Forms.TextBox textBox1;
-        private System.Windows.Forms.TextBox textBox2;
+        private System.Windows.Forms.TextBox txtName;
+        private System.Windows.Forms.TextBox txtPhone;
         private System.Windows.Forms.Label label5;
-        private System.Windows.Forms.TextBox textBox3;
+        private System.Windows.Forms.TextBox txtYear;
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.Label label7;
-        private System.Windows.Forms.ComboBox comboBox1;
-        private System.Windows.Forms.TextBox textBox4;
-        private System.Windows.Forms.Label label8;
-        private System.Windows.Forms.ComboBox comboBox2;
-        private System.Windows.Forms.Label label9;
+        private System.Windows.Forms.ComboBox cbGender;
         private System.Windows.Forms.Button btnAdd;
-        private System.Windows.Forms.Button btnReset;
+        private System.Windows.Forms.Button btnDeleter;
         private System.Windows.Forms.Button btnBack;
-        private System.Windows.Forms.Button bntbackLogin;
+        private System.Windows.Forms.Button btnSearch;
     }
 }

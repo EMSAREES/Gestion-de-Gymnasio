@@ -173,7 +173,7 @@
         KPYN/9AbdLF8JAjJLwhCkkEQkgyCkGQQhCTzB/c8uYnUMDBnAAAAAElFTkSuQmCC
 </value>
   </data>
-  <data name="AgregarUsuario.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+  <data name="adminBtn.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAAJoAAAAqCAYAAABLNUJiAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
         YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG3SURBVHhe7ZzbjoIwFEX9/68FBZRrJ7uTEmgBQds+zKyV
